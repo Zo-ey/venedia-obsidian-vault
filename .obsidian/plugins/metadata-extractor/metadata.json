@@ -1,0 +1,1171 @@
+[
+  {
+    "fileName": "quest",
+    "relativePath": "_templates/quest.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      },
+      {
+        "heading": "Evenements",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "location",
+    "relativePath": "_templates/location.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "<% tp.date.now(\"DD-MM-YYYY\", -1) %>",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1. Locations index",
+        "link": "location.md",
+        "relativePath": "Locations/1. Locations index.md",
+        "displayText": "location"
+      }
+    ]
+  },
+  {
+    "fileName": "daily-journal",
+    "relativePath": "_templates/daily-journal.md",
+    "frontmatter": {
+      "tags": null,
+      "creation-date": "<% tp.date.now(\"DD-MM-YYYY\", -1) %>",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "<% Calendarium.getAPI(\"Calendar of Harptos\").getCurrentDate().year + \"-\" + Calendarium.getAPI(\"Calendar of Harptos\").getCurrentDate().month+1 + \"-\" + Calendarium.getAPI(\"Calendar of Harptos\").getCurrentDate().day %>",
+      "fc-end": null
+    }
+  },
+  {
+    "fileName": "character",
+    "relativePath": "_templates/character.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "<% tp.date.now(\"DD-MM-YYYY\", -1) %>"
+    },
+    "backlinks": [
+      {
+        "fileName": "1. Characters index",
+        "link": "character.md",
+        "relativePath": "Characters/1. Characters index.md",
+        "displayText": "character"
+      }
+    ]
+  },
+  {
+    "fileName": "Todos",
+    "relativePath": "Todos.md"
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "RPG Obsidian vault configuration",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Protection d'un carosse",
+    "relativePath": "Quests/Protection d'un carosse.md",
+    "tags": [
+      "quest"
+    ],
+    "frontmatter": {
+      "creation-date": "25-07-2025",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "1491-01-12",
+      "fc-end": null,
+      "destination-loc": "Phandalin"
+    },
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      },
+      {
+        "heading": "Evenements",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "link": "Neverwinter",
+        "relativePath": "Locations/Neverwinter.md"
+      },
+      {
+        "link": "Phandalin",
+        "relativePath": "Locations/Phandalin.md"
+      },
+      {
+        "link": "Elmina",
+        "relativePath": "Characters/NPC/Elmina.md"
+      },
+      {
+        "link": "Phandalin",
+        "relativePath": "Locations/Phandalin.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "link": "Mine de l'écho de vague",
+        "relativePath": "Locations/Mine de l'écho de vague.md"
+      },
+      {
+        "link": "Grotte de la bouche",
+        "relativePath": "Locations/Grotte de la bouche.md"
+      },
+      {
+        "link": "Sauver Gundren et Sildar",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1491-01-12",
+        "link": "Protection d'un carosse",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Protection d'un carosse",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "Gundren Cherchepierre",
+        "link": "Protection d'un carosse",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "fileName": "Gwenaelle",
+        "link": "Protection d'un carosse",
+        "relativePath": "Characters/NPC/Gwenaelle.md"
+      },
+      {
+        "fileName": "Gim",
+        "link": "Protection d'un carosse",
+        "relativePath": "Characters/NPC/Gim.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sauver Gundren et Sildar",
+    "relativePath": "Quests/Sauver Gundren et Sildar.md",
+    "tags": [
+      "quest"
+    ],
+    "frontmatter": {
+      "creation-date": "25-07-2025",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "1491-01-12",
+      "fc-end": null,
+      "destination-loc": "Chateau des Geulederock"
+    },
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      },
+      {
+        "heading": "Evenements",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Grotte de la bouche",
+        "relativePath": "Locations/Grotte de la bouche.md"
+      },
+      {
+        "link": "Chateau des Geulederock",
+        "relativePath": "Locations/Chateau des Geulederock.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Sauver Gundren et Sildar",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "1. Quests index",
+        "link": "Sauver Gundren et Sildar",
+        "relativePath": "Quests/1. Quests index.md",
+        "displayText": "Untitled"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Sauver Gundren et Sildar",
+        "relativePath": "Journal/1491-01-12.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1. Quests index",
+    "relativePath": "Quests/1. Quests index.md",
+    "tags": [
+      "index"
+    ],
+    "frontmatter": {
+      "date": "26-04-2025"
+    },
+    "links": [
+      {
+        "link": "Sauver Gundren et Sildar",
+        "displayText": "Untitled",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      },
+      {
+        "link": "verimportante.md",
+        "displayText": "verimportante"
+      }
+    ]
+  },
+  {
+    "fileName": "Neverwinter",
+    "relativePath": "Locations/Neverwinter.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "26-04-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Neverwinter's region",
+        "relativePath": "Locations/Neverwinter's region.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Neverwinter",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "1. Locations index",
+        "link": "Neverwinter.md",
+        "relativePath": "Locations/1. Locations index.md",
+        "displayText": "Neverwinter"
+      },
+      {
+        "fileName": "Sildar Oliver",
+        "link": "Neverwinter",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      },
+      {
+        "fileName": "Gundren Cherchepierre",
+        "link": "Neverwinter",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "fileName": "Gwenaelle",
+        "link": "Neverwinter",
+        "relativePath": "Characters/NPC/Gwenaelle.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phandalin",
+    "relativePath": "Locations/Phandalin.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Phandalin",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Phandalin",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Iarno",
+        "link": "Phandalin",
+        "relativePath": "Characters/NPC/Iarno.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Neverwinter's region",
+    "relativePath": "Locations/Neverwinter's region.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "26-04-2025",
+      "map": true,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Neverwinter",
+        "link": "Neverwinter's region",
+        "relativePath": "Locations/Neverwinter.md"
+      },
+      {
+        "fileName": "1. Locations index",
+        "link": "Neverwinter's region.md",
+        "relativePath": "Locations/1. Locations index.md",
+        "displayText": "Neverwinter's region"
+      }
+    ]
+  },
+  {
+    "fileName": "Mine de l'écho de vague",
+    "relativePath": "Locations/Mine de l'écho de vague.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Gwenaelle",
+        "relativePath": "Characters/NPC/Gwenaelle.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Mine de l'écho de vague",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Roi Glorg",
+        "link": "Mine de l'écho de vague",
+        "relativePath": "Characters/NPC/Roi Glorg.md"
+      },
+      {
+        "fileName": "L'araignée - Nezznar",
+        "link": "Mine de l'écho de vague",
+        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Faerun",
+    "relativePath": "Locations/Faerun.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": {
+        "{ date:DD-MM-YYYY }": null
+      },
+      "map": true
+    },
+    "headings": [
+      {
+        "heading": "Global information",
+        "level": 1
+      },
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1. Locations index",
+        "link": "Faerun",
+        "relativePath": "Locations/1. Locations index.md",
+        "displayText": "faerun"
+      }
+    ]
+  },
+  {
+    "fileName": "Grotte de la bouche",
+    "relativePath": "Locations/Grotte de la bouche.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Grotte de la bouche",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Sauver Gundren et Sildar",
+        "link": "Grotte de la bouche",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Grotte de la bouche",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "Le goblin capturé",
+        "link": "Grotte de la bouche",
+        "relativePath": "Characters/NPC/Le goblin capturé.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Chateau des Geulederock",
+    "relativePath": "Locations/Chateau des Geulederock.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sauver Gundren et Sildar",
+        "link": "Chateau des Geulederock",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1. Locations index",
+    "relativePath": "Locations/1. Locations index.md",
+    "tags": [
+      "index"
+    ],
+    "frontmatter": {
+      "date": "26-04-2025"
+    },
+    "links": [
+      {
+        "link": "Faerun",
+        "displayText": "faerun",
+        "relativePath": "Locations/Faerun.md"
+      },
+      {
+        "link": "location.md",
+        "displayText": "location",
+        "relativePath": "_templates/location.md"
+      },
+      {
+        "link": "Neverwinter.md",
+        "displayText": "Neverwinter",
+        "relativePath": "Locations/Neverwinter.md"
+      },
+      {
+        "link": "Neverwinter's region.md",
+        "displayText": "Neverwinter's region",
+        "relativePath": "Locations/Neverwinter's region.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1491-01-12",
+    "relativePath": "Journal/1491-01-12.md",
+    "frontmatter": {
+      "tags": null,
+      "creation-date": "25-07-2025",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "1491-01-12",
+      "fc-end": null
+    },
+    "links": [
+      {
+        "link": "Protection d'un carosse",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "link": "Sauver Gundren et Sildar",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      },
+      {
+        "link": "Grotte de la bouche",
+        "relativePath": "Locations/Grotte de la bouche.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Asriel",
+        "relativePath": "Characters/Players/Asriel.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Protection d'un carosse",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Nim",
+        "relativePath": "Characters/Players/Nim.md"
+      },
+      {
+        "link": "Lauln",
+        "relativePath": "Characters/Players/Lauln.md"
+      }
+    ]
+  },
+  {
+    "fileName": "index",
+    "relativePath": "index.md"
+  },
+  {
+    "fileName": "Nim",
+    "relativePath": "Characters/Players/Nim.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Nim",
+        "relativePath": "Journal/1491-01-12.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lauln",
+    "relativePath": "Characters/Players/Lauln.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "1491-01-12",
+        "link": "Lauln",
+        "relativePath": "Journal/1491-01-12.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Irina",
+    "relativePath": "Characters/Players/Irina.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    }
+  },
+  {
+    "fileName": "Asriel",
+    "relativePath": "Characters/Players/Asriel.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "1491-01-12",
+        "link": "Asriel",
+        "relativePath": "Journal/1491-01-12.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sildar Oliver",
+    "relativePath": "Characters/NPC/Sildar Oliver.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Neverwinter",
+        "relativePath": "Locations/Neverwinter.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Sildar Oliver",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Sauver Gundren et Sildar",
+        "link": "Sildar Oliver",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      },
+      {
+        "fileName": "Mine de l'écho de vague",
+        "link": "Sildar Oliver",
+        "relativePath": "Locations/Mine de l'écho de vague.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Sildar Oliver",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Sildar Oliver",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "Roi Glorg",
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Roi Glorg.md"
+      },
+      {
+        "fileName": "Gundren Cherchepierre",
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "fileName": "Gundren Cherchepierre",
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Roi Glorg",
+    "relativePath": "Characters/NPC/Roi Glorg.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Mine de l'écho de vague",
+        "relativePath": "Locations/Mine de l'écho de vague.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "L'araignée - Nezznar",
+        "link": "Roi Glorg",
+        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
+      },
+      {
+        "fileName": "Clarg",
+        "link": "Roi Glorg",
+        "relativePath": "Characters/NPC/Clarg.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Le goblin capturé",
+    "relativePath": "Characters/NPC/Le goblin capturé.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Grotte de la bouche",
+        "relativePath": "Locations/Grotte de la bouche.md"
+      }
+    ]
+  },
+  {
+    "fileName": "L'araignée - Nezznar",
+    "relativePath": "Characters/NPC/L'araignée - Nezznar.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Clarg",
+        "relativePath": "Characters/NPC/Clarg.md"
+      },
+      {
+        "link": "Roi Glorg",
+        "relativePath": "Characters/NPC/Roi Glorg.md"
+      },
+      {
+        "link": "Mine de l'écho de vague",
+        "relativePath": "Locations/Mine de l'écho de vague.md"
+      },
+      {
+        "link": "Iarno",
+        "relativePath": "Characters/NPC/Iarno.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Iarno",
+    "relativePath": "Characters/NPC/Iarno.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Phandalin",
+        "relativePath": "Locations/Phandalin.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "L'araignée - Nezznar",
+        "link": "Iarno",
+        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Gundren Cherchepierre",
+    "relativePath": "Characters/NPC/Gundren Cherchepierre.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Neverwinter",
+        "relativePath": "Locations/Neverwinter.md"
+      },
+      {
+        "link": "Gwenaelle",
+        "relativePath": "Characters/NPC/Gwenaelle.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      },
+      {
+        "link": "Protection d'un carosse",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "link": "Sildar Oliver",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "fileName": "Sauver Gundren et Sildar",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+      },
+      {
+        "fileName": "Chateau des Geulederock",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Locations/Chateau des Geulederock.md"
+      },
+      {
+        "fileName": "1491-01-12",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Journal/1491-01-12.md"
+      },
+      {
+        "fileName": "Sildar Oliver",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Sildar Oliver.md"
+      },
+      {
+        "fileName": "Roi Glorg",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Roi Glorg.md"
+      },
+      {
+        "fileName": "Gwenaelle",
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gwenaelle.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Gwenaelle",
+    "relativePath": "Characters/NPC/Gwenaelle.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Neverwinter",
+        "relativePath": "Locations/Neverwinter.md"
+      },
+      {
+        "link": "Gundren Cherchepierre",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "link": "Protection d'un carosse",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mine de l'écho de vague",
+        "link": "Gwenaelle",
+        "relativePath": "Locations/Mine de l'écho de vague.md"
+      },
+      {
+        "fileName": "Gundren Cherchepierre",
+        "link": "Gwenaelle",
+        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+      },
+      {
+        "fileName": "Gim",
+        "link": "Gwenaelle",
+        "relativePath": "Characters/NPC/Gim.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Elmina",
+    "relativePath": "Characters/NPC/Elmina.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "Protection d'un carosse",
+        "link": "Elmina",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Gim",
+    "relativePath": "Characters/NPC/Gim.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Protection d'un carosse",
+        "relativePath": "Quests/Protection d'un carosse.md"
+      },
+      {
+        "link": "Gwenaelle",
+        "relativePath": "Characters/NPC/Gwenaelle.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Clarg",
+    "relativePath": "Characters/NPC/Clarg.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "25-07-2025"
+    },
+    "links": [
+      {
+        "link": "Roi Glorg",
+        "relativePath": "Characters/NPC/Roi Glorg.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "L'araignée - Nezznar",
+        "link": "Clarg",
+        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1. Characters index",
+    "relativePath": "Characters/1. Characters index.md",
+    "tags": [
+      "index"
+    ],
+    "frontmatter": {
+      "date": "26-04-2025"
+    },
+    "links": [
+      {
+        "link": "character.md",
+        "displayText": "character",
+        "relativePath": "_templates/character.md"
+      },
+      {
+        "link": "granducdelcu.md",
+        "displayText": "granducdelcu"
+      }
+    ]
+  }
+]

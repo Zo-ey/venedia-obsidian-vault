@@ -1,0 +1,52 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Characters",
+      "relativePath": "Characters"
+    },
+    {
+      "name": "Journal",
+      "relativePath": "Journal"
+    },
+    {
+      "name": "Locations",
+      "relativePath": "Locations"
+    },
+    {
+      "name": "Quests",
+      "relativePath": "Quests"
+    },
+    {
+      "name": "_images",
+      "relativePath": "_images"
+    },
+    {
+      "name": "_templates",
+      "relativePath": "_templates"
+    },
+    {
+      "name": "NPC",
+      "relativePath": "Characters/NPC"
+    },
+    {
+      "name": "Players",
+      "relativePath": "Characters/Players"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Welcome.canvas",
+      "basename": "Welcome",
+      "relativePath": "Welcome.canvas"
+    },
+    {
+      "name": "004-map-0.01-phandalin-region-player.webp",
+      "basename": "004-map-0.01-phandalin-region-player",
+      "relativePath": "_images/004-map-0.01-phandalin-region-player.webp"
+    }
+  ]
+}

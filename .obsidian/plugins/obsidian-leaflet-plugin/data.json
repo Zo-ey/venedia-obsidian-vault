@@ -1,0 +1,306 @@
+{
+  "mapMarkers": [
+    {
+      "id": "region-map",
+      "lastAccessed": 1753560942511,
+      "markers": [
+        {
+          "id": "ID_4be81a0819ba",
+          "type": "default",
+          "loc": [
+            -0.5128707885742188,
+            0.18023681640625
+          ],
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e97af91b490a",
+          "type": "default",
+          "loc": [
+            -0.5123825073242188,
+            0.17999267578125
+          ],
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88986bd9ca8a",
+          "type": "default",
+          "loc": [
+            -0.5136032104492188,
+            0.18145751953125
+          ],
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59d9e8fb58e9",
+          "type": "default",
+          "loc": [
+            -0.5145797729492188,
+            0.17877197265625
+          ],
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a95bdb6bc89b",
+          "type": "Big city",
+          "loc": [
+            -0.5158004760742188,
+            0.17974853515625
+          ],
+          "link": "Neverwinter",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a5b5b796879",
+          "type": "Big city",
+          "loc": [
+            -0.8514938354492188,
+            0.47662353515625
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b3b58daa92b",
+          "type": "Quest",
+          "loc": [
+            -0.8556442260742188,
+            0.47955322265625
+          ],
+          "link": "Protection d'un carosse",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a493be8ca5a",
+          "type": "Quest",
+          "loc": [
+            -0.7616500854492188,
+            0.41290283203125
+          ],
+          "link": "Sauver Gundren et Sildar",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fafb7aa93a18",
+          "type": "default",
+          "loc": [
+            -0.7577438354492188,
+            0.39752197265625
+          ],
+          "link": "Grotte de la bouche",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aca7a99384a",
+          "type": "default",
+          "loc": [
+            -0.6554489135742188,
+            0.46246337890625
+          ],
+          "link": "Chateau des Geulederock",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca886a0aba59",
+          "type": "Quest",
+          "loc": [
+            -0.6583786010742188,
+            0.45855712890625
+          ],
+          "link": "Sauver Gundren et Sildar",
+          "layer": "%5B%5B004-map-0.01-phandalin-region-player.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Neverwinter's region.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Quest",
+      "iconName": "question",
+      "color": "#1fb8d6",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Big city",
+      "iconName": "city",
+      "color": "#c02a2a",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 10,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "750px",
+    "image": "[[004-map-0.01-phandalin-region-player.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[004-map-0.01-phandalin-region-player.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 12,
+    "minZoom": 9,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "region-map",
+    "width": "100%",
+    "lat": 51,
+    "long": 47,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
