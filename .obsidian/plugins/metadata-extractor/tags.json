@@ -4,12 +4,12 @@
     "tagCount": 8,
     "relativePaths": [
       "_templates/location.md",
-      "Locations/Neverwinter.md",
       "Locations/Phandalin.md",
+      "Locations/Neverwinter.md",
       "Locations/Neverwinter's region.md",
       "Locations/Mine de l'écho de vague.md",
-      "Locations/Faerun.md",
       "Locations/Grotte de la bouche.md",
+      "Locations/faerun.md",
       "Locations/Chateau des Geulederock.md"
     ]
   },
@@ -25,12 +25,12 @@
       "Characters/NPC/Sildar Oliver.md",
       "Characters/NPC/Roi Glorg.md",
       "Characters/NPC/Le goblin capturé.md",
-      "Characters/NPC/L'araignée - Nezznar.md",
       "Characters/NPC/Iarno.md",
-      "Characters/NPC/Gundren Cherchepierre.md",
+      "Characters/NPC/L'araignée - Nezznar.md",
       "Characters/NPC/Gwenaelle.md",
-      "Characters/NPC/Elmina.md",
+      "Characters/NPC/Gundren Cherchepierre.md",
       "Characters/NPC/Gim.md",
+      "Characters/NPC/Elmina.md",
       "Characters/NPC/Clarg.md"
     ]
   },
@@ -38,8 +38,8 @@
     "tag": "quest",
     "tagCount": 2,
     "relativePaths": [
-      "Quests/Protection d'un carosse.md",
-      "Quests/Sauver Gundren et Sildar.md"
+      "Quests/Sauver Gundren et Sildar.md",
+      "Quests/Protection d'un carosse.md"
     ]
   },
   {

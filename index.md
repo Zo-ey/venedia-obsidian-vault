@@ -1,1 +1,0 @@
-[[Welcome.canvas|Welcome]]
