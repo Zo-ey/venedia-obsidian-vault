@@ -29,20 +29,19 @@
       "relativePath": "_templates"
     },
     {
-      "name": "NPC",
-      "relativePath": "Characters/NPC"
+      "name": "Organisations",
+      "relativePath": "Characters/Organisations"
     },
     {
       "name": "Players",
       "relativePath": "Characters/Players"
+    },
+    {
+      "name": "NPC",
+      "relativePath": "Characters/NPC"
     }
   ],
   "nonMdFiles": [
-    {
-      "name": "Welcome.canvas",
-      "basename": "Welcome",
-      "relativePath": "Welcome.canvas"
-    },
     {
       "name": "004-map-0.01-phandalin-region-player.webp",
       "basename": "004-map-0.01-phandalin-region-player",

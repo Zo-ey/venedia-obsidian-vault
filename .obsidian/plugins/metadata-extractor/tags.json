@@ -1,45 +1,29 @@
 [
   {
     "tag": "location",
-    "tagCount": 8,
+    "tagCount": 12,
     "relativePaths": [
       "_templates/location.md",
-      "Locations/Phandalin.md",
-      "Locations/Neverwinter.md",
+      "Locations/Venedia.md",
+      "Locations/Nimra.md",
       "Locations/Neverwinter's region.md",
-      "Locations/Mine de l'écho de vague.md",
-      "Locations/Grotte de la bouche.md",
-      "Locations/faerun.md",
-      "Locations/Chateau des Geulederock.md"
-    ]
-  },
-  {
-    "tag": "character",
-    "tagCount": 15,
-    "relativePaths": [
-      "_templates/character.md",
-      "Characters/Players/Nim.md",
-      "Characters/Players/Lauln.md",
-      "Characters/Players/Irina.md",
-      "Characters/Players/Asriel.md",
-      "Characters/NPC/Sildar Oliver.md",
-      "Characters/NPC/Roi Glorg.md",
-      "Characters/NPC/Le goblin capturé.md",
-      "Characters/NPC/Iarno.md",
-      "Characters/NPC/L'araignée - Nezznar.md",
-      "Characters/NPC/Gwenaelle.md",
-      "Characters/NPC/Gundren Cherchepierre.md",
-      "Characters/NPC/Gim.md",
-      "Characters/NPC/Elmina.md",
-      "Characters/NPC/Clarg.md"
+      "Locations/Lorandis.md",
+      "Locations/Port-Loyal.md",
+      "Locations/Lac de l'Effroi.md",
+      "Locations/Misda.md",
+      "Locations/Jerwal.md",
+      "Locations/Cyria.md",
+      "Locations/Doyne.md",
+      "Locations/Forêt de Jade.md"
     ]
   },
   {
     "tag": "quest",
-    "tagCount": 2,
+    "tagCount": 3,
     "relativePaths": [
-      "Quests/Sauver Gundren et Sildar.md",
-      "Quests/Protection d'un carosse.md"
+      "Quests/Les anneaux élémentaires.md",
+      "Quests/Mystère du Culte de Lorandis.md",
+      "Quests/Les pouvoirs de Sharp.md"
     ]
   },
   {
@@ -49,6 +33,27 @@
       "Quests/1. Quests index.md",
       "Locations/1. Locations index.md",
       "Characters/1. Characters index.md"
+    ]
+  },
+  {
+    "tag": "character",
+    "tagCount": 8,
+    "relativePaths": [
+      "Characters/NPC/Panogre.md",
+      "Characters/NPC/Torald.md",
+      "Characters/NPC/Neralyn.md",
+      "Characters/NPC/Sharp.md",
+      "Characters/Players/Shail.md",
+      "Characters/Players/Theon.md",
+      "Characters/Players/Skathi.md",
+      "Characters/Players/Reya.md"
+    ]
+  },
+  {
+    "tag": "organisation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Characters/Organisations/Ensorceleuses de Lune.md"
     ]
   }
 ]

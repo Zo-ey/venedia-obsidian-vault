@@ -1,7 +1,7 @@
 ---
 tags:
   - location
-date: 25-07-2025
+date: 02-08-2025
 map: false
 owner:
 ---
@@ -9,10 +9,14 @@ owner:
 
 # Quests
 
+
 ```dataview
 LIST
 FROM #quest 
 WHERE destination-loc = this.file.name
 ```
 
+
 # Information
+
+Grande ville de [[Venedia]]. Ville d'origine de [[../Characters/Players/Theon|Theon]] .

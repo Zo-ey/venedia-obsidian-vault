@@ -1,19 +1,5 @@
 [
   {
-    "fileName": "quest",
-    "relativePath": "_templates/quest.md",
-    "headings": [
-      {
-        "heading": "Description",
-        "level": 1
-      },
-      {
-        "heading": "Evenements",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "location",
     "relativePath": "_templates/location.md",
     "tags": [
@@ -48,6 +34,24 @@
     ]
   },
   {
+    "fileName": "organisations",
+    "relativePath": "_templates/organisations.md"
+  },
+  {
+    "fileName": "quest",
+    "relativePath": "_templates/quest.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      },
+      {
+        "heading": "Evenements",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "daily-journal",
     "relativePath": "_templates/daily-journal.md",
     "frontmatter": {
@@ -61,12 +65,6 @@
   {
     "fileName": "character",
     "relativePath": "_templates/character.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "<% tp.date.now(\"DD-MM-YYYY\", -1) %>"
-    },
     "backlinks": [
       {
         "fileName": "1. Characters index",
@@ -81,6 +79,10 @@
     "relativePath": "Todos.md"
   },
   {
+    "fileName": "temp-note",
+    "relativePath": "temp-note.md"
+  },
+  {
     "fileName": "README",
     "relativePath": "README.md",
     "headings": [
@@ -91,17 +93,18 @@
     ]
   },
   {
-    "fileName": "Sauver Gundren et Sildar",
-    "relativePath": "Quests/Sauver Gundren et Sildar.md",
+    "fileName": "Les anneaux élémentaires",
+    "relativePath": "Quests/Les anneaux élémentaires.md",
     "tags": [
       "quest"
     ],
     "frontmatter": {
-      "creation-date": "25-07-2025",
+      "creation-date": "02-08-2025",
       "fc-calendar": "Calendar of Harptos",
       "fc-date": "1491-01-12",
       "fc-end": null,
-      "destination-loc": "Chateau des Geulederock"
+      "destination-loc": "?",
+      "status": false
     },
     "headings": [
       {
@@ -115,53 +118,40 @@
     ],
     "links": [
       {
-        "link": "Grotte de la bouche",
-        "relativePath": "Locations/Grotte de la bouche.md"
+        "link": "Neralyn.md",
+        "displayText": "Neralyn",
+        "relativePath": "Characters/NPC/Neralyn.md"
       },
       {
-        "link": "Chateau des Geulederock",
-        "relativePath": "Locations/Chateau des Geulederock.md"
+        "link": "Neralyn.md",
+        "displayText": "Neralyn",
+        "relativePath": "Characters/NPC/Neralyn.md"
       },
       {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+        "link": "Torald.md",
+        "displayText": "Torald",
+        "relativePath": "Characters/NPC/Torald.md"
       },
       {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Protection d'un carosse",
-        "link": "Sauver Gundren et Sildar",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "fileName": "1. Quests index",
-        "link": "Sauver Gundren et Sildar",
-        "relativePath": "Quests/1. Quests index.md",
-        "displayText": "Untitled"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Sauver Gundren et Sildar",
-        "relativePath": "Journal/1491-01-12.md"
+        "link": "Forêt de Jade.md",
+        "displayText": "Forêt de Jade",
+        "relativePath": "Locations/Forêt de Jade.md"
       }
     ]
   },
   {
-    "fileName": "Protection d'un carosse",
-    "relativePath": "Quests/Protection d'un carosse.md",
+    "fileName": "Mystère du Culte de Lorandis",
+    "relativePath": "Quests/Mystère du Culte de Lorandis.md",
     "tags": [
       "quest"
     ],
     "frontmatter": {
-      "creation-date": "25-07-2025",
+      "creation-date": "02-08-2025",
       "fc-calendar": "Calendar of Harptos",
       "fc-date": "1491-01-12",
       "fc-end": null,
-      "destination-loc": "Phandalin"
+      "destination-loc": "Venedia",
+      "status": false
     },
     "headings": [
       {
@@ -175,71 +165,45 @@
     ],
     "links": [
       {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
+        "link": "Misda.md",
+        "displayText": "Misda",
+        "relativePath": "Locations/Misda.md"
       },
       {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+        "link": "Skathi.md",
+        "displayText": "Skathi",
+        "relativePath": "Characters/Players/Skathi.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Les pouvoirs de Sharp",
+    "relativePath": "Quests/Les pouvoirs de Sharp.md",
+    "tags": [
+      "quest"
+    ],
+    "frontmatter": {
+      "creation-date": "26-07-2025",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "1491-01-12",
+      "fc-end": null,
+      "destination-loc": null,
+      "status": false
+    },
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
       },
       {
-        "link": "Neverwinter",
-        "relativePath": "Locations/Neverwinter.md"
-      },
-      {
-        "link": "Phandalin",
-        "relativePath": "Locations/Phandalin.md"
-      },
-      {
-        "link": "Elmina",
-        "relativePath": "Characters/NPC/Elmina.md"
-      },
-      {
-        "link": "Phandalin",
-        "relativePath": "Locations/Phandalin.md"
-      },
-      {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "link": "Mine de l'écho de vague",
-        "relativePath": "Locations/Mine de l'écho de vague.md"
-      },
-      {
-        "link": "Grotte de la bouche",
-        "relativePath": "Locations/Grotte de la bouche.md"
-      },
-      {
-        "link": "Sauver Gundren et Sildar",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+        "heading": "Evenements",
+        "level": 1
       }
     ],
-    "backlinks": [
+    "links": [
       {
-        "fileName": "1491-01-12",
-        "link": "Protection d'un carosse",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Protection d'un carosse",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "Gwenaelle",
-        "link": "Protection d'un carosse",
-        "relativePath": "Characters/NPC/Gwenaelle.md"
-      },
-      {
-        "fileName": "Gundren Cherchepierre",
-        "link": "Protection d'un carosse",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "fileName": "Gim",
-        "link": "Protection d'un carosse",
-        "relativePath": "Characters/NPC/Gim.md"
+        "link": "Sharp",
+        "relativePath": "Characters/NPC/Sharp.md"
       }
     ]
   },
@@ -252,26 +216,25 @@
     "frontmatter": {
       "date": "26-04-2025"
     },
-    "links": [
+    "headings": [
       {
-        "link": "Sauver Gundren et Sildar",
-        "displayText": "Untitled",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+        "heading": "In progress",
+        "level": 1
       },
       {
-        "link": "verimportante.md",
-        "displayText": "verimportante"
+        "heading": "Complete",
+        "level": 1
       }
     ]
   },
   {
-    "fileName": "Phandalin",
-    "relativePath": "Locations/Phandalin.md",
+    "fileName": "Venedia",
+    "relativePath": "Locations/Venedia.md",
     "tags": [
       "location"
     ],
     "frontmatter": {
-      "date": "25-07-2025",
+      "date": "02-08-2025",
       "map": false,
       "owner": null
     },
@@ -291,30 +254,67 @@
     ],
     "backlinks": [
       {
-        "fileName": "Protection d'un carosse",
-        "link": "Phandalin",
-        "relativePath": "Quests/Protection d'un carosse.md"
+        "fileName": "Nimra",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Nimra.md",
+        "displayText": "Venedia"
       },
       {
-        "fileName": "Protection d'un carosse",
-        "link": "Phandalin",
-        "relativePath": "Quests/Protection d'un carosse.md"
+        "fileName": "Lorandis",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Lorandis.md",
+        "displayText": "Venedia"
       },
       {
-        "fileName": "Iarno",
-        "link": "Phandalin",
-        "relativePath": "Characters/NPC/Iarno.md"
+        "fileName": "Port-Loyal",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Port-Loyal.md",
+        "displayText": "Venedia"
+      },
+      {
+        "fileName": "Lac de l'Effroi",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Lac de l'Effroi.md",
+        "displayText": "Venedia"
+      },
+      {
+        "fileName": "Misda",
+        "link": "Venedia",
+        "relativePath": "Locations/Misda.md"
+      },
+      {
+        "fileName": "Jerwal",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Jerwal.md",
+        "displayText": "Venedia"
+      },
+      {
+        "fileName": "Cyria",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Cyria.md",
+        "displayText": "Venedia"
+      },
+      {
+        "fileName": "Doyne",
+        "link": "Venedia",
+        "relativePath": "Locations/Doyne.md"
+      },
+      {
+        "fileName": "Forêt de Jade",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Forêt de Jade.md",
+        "displayText": "Venedia"
       }
     ]
   },
   {
-    "fileName": "Neverwinter",
-    "relativePath": "Locations/Neverwinter.md",
+    "fileName": "Nimra",
+    "relativePath": "Locations/Nimra.md",
     "tags": [
       "location"
     ],
     "frontmatter": {
-      "date": "26-04-2025",
+      "date": "02-08-2025",
       "map": false,
       "owner": null
     },
@@ -334,36 +334,14 @@
     ],
     "links": [
       {
-        "link": "Neverwinter's region",
-        "relativePath": "Locations/Neverwinter's region.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Protection d'un carosse",
-        "link": "Neverwinter",
-        "relativePath": "Quests/Protection d'un carosse.md"
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
       },
       {
-        "fileName": "1. Locations index",
-        "link": "Neverwinter.md",
-        "relativePath": "Locations/1. Locations index.md",
-        "displayText": "Neverwinter"
-      },
-      {
-        "fileName": "Sildar Oliver",
-        "link": "Neverwinter",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      },
-      {
-        "fileName": "Gwenaelle",
-        "link": "Neverwinter",
-        "relativePath": "Characters/NPC/Gwenaelle.md"
-      },
-      {
-        "fileName": "Gundren Cherchepierre",
-        "link": "Neverwinter",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
       }
     ]
   },
@@ -394,11 +372,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Neverwinter",
-        "link": "Neverwinter's region",
-        "relativePath": "Locations/Neverwinter.md"
-      },
-      {
         "fileName": "1. Locations index",
         "link": "Neverwinter's region.md",
         "relativePath": "Locations/1. Locations index.md",
@@ -407,13 +380,13 @@
     ]
   },
   {
-    "fileName": "Mine de l'écho de vague",
-    "relativePath": "Locations/Mine de l'écho de vague.md",
+    "fileName": "Lorandis",
+    "relativePath": "Locations/Lorandis.md",
     "tags": [
       "location"
     ],
     "frontmatter": {
-      "date": "25-07-2025",
+      "date": "02-08-2025",
       "map": false,
       "owner": null
     },
@@ -433,127 +406,28 @@
     ],
     "links": [
       {
-        "link": "Gwenaelle",
-        "relativePath": "Characters/NPC/Gwenaelle.md"
-      },
-      {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Protection d'un carosse",
-        "link": "Mine de l'écho de vague",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "fileName": "Roi Glorg",
-        "link": "Mine de l'écho de vague",
-        "relativePath": "Characters/NPC/Roi Glorg.md"
-      },
-      {
-        "fileName": "L'araignée - Nezznar",
-        "link": "Mine de l'écho de vague",
-        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
+        "fileName": "Nimra",
+        "link": "Lorandis.md",
+        "relativePath": "Locations/Nimra.md",
+        "displayText": "Lorandis"
       }
     ]
   },
   {
-    "fileName": "Grotte de la bouche",
-    "relativePath": "Locations/Grotte de la bouche.md",
+    "fileName": "Port-Loyal",
+    "relativePath": "Locations/Port-Loyal.md",
     "tags": [
       "location"
     ],
     "frontmatter": {
-      "date": "25-07-2025",
-      "map": false,
-      "owner": null
-    },
-    "headings": [
-      {
-        "heading": "Map",
-        "level": 1
-      },
-      {
-        "heading": "Quests",
-        "level": 1
-      },
-      {
-        "heading": "Information",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sauver Gundren et Sildar",
-        "link": "Grotte de la bouche",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
-      },
-      {
-        "fileName": "Protection d'un carosse",
-        "link": "Grotte de la bouche",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Grotte de la bouche",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "Le goblin capturé",
-        "link": "Grotte de la bouche",
-        "relativePath": "Characters/NPC/Le goblin capturé.md"
-      }
-    ]
-  },
-  {
-    "fileName": "faerun",
-    "relativePath": "Locations/faerun.md",
-    "tags": [
-      "location"
-    ],
-    "frontmatter": {
-      "date": {
-        "{ date:DD-MM-YYYY }": null
-      },
-      "map": true
-    },
-    "headings": [
-      {
-        "heading": "Global information",
-        "level": 1
-      },
-      {
-        "heading": "Map",
-        "level": 1
-      },
-      {
-        "heading": "Quests",
-        "level": 1
-      },
-      {
-        "heading": "Information",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "1. Locations index",
-        "link": "Faerun",
-        "relativePath": "Locations/1. Locations index.md",
-        "displayText": "faerun"
-      }
-    ]
-  },
-  {
-    "fileName": "Chateau des Geulederock",
-    "relativePath": "Locations/Chateau des Geulederock.md",
-    "tags": [
-      "location"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025",
+      "date": "02-08-2025",
       "map": false,
       "owner": null
     },
@@ -573,15 +447,284 @@
     ],
     "links": [
       {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Doyne.md",
+        "displayText": "Doyne",
+        "relativePath": "Locations/Doyne.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lac de l'Effroi",
+    "relativePath": "Locations/Lac de l'Effroi.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Misda.md",
+        "displayText": "Misda",
+        "relativePath": "Locations/Misda.md"
+      },
+      {
+        "link": "Doyne.md",
+        "displayText": "Doyne",
+        "relativePath": "Locations/Doyne.md"
+      },
+      {
+        "link": "Cyria.md",
+        "displayText": "Cyria",
+        "relativePath": "Locations/Cyria.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Misda",
+    "relativePath": "Locations/Misda.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia",
+        "relativePath": "Locations/Venedia.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Sauver Gundren et Sildar",
-        "link": "Chateau des Geulederock",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+        "fileName": "Mystère du Culte de Lorandis",
+        "link": "Misda.md",
+        "relativePath": "Quests/Mystère du Culte de Lorandis.md",
+        "displayText": "Misda"
+      },
+      {
+        "fileName": "Lac de l'Effroi",
+        "link": "Misda.md",
+        "relativePath": "Locations/Lac de l'Effroi.md",
+        "displayText": "Misda"
+      },
+      {
+        "fileName": "Forêt de Jade",
+        "link": "Misda.md",
+        "relativePath": "Locations/Forêt de Jade.md",
+        "displayText": "Misda"
+      }
+    ]
+  },
+  {
+    "fileName": "Jerwal",
+    "relativePath": "Locations/Jerwal.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cyria",
+    "relativePath": "Locations/Cyria.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lac de l'Effroi",
+        "link": "Cyria.md",
+        "relativePath": "Locations/Lac de l'Effroi.md",
+        "displayText": "Cyria"
+      }
+    ]
+  },
+  {
+    "fileName": "Doyne",
+    "relativePath": "Locations/Doyne.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Theon",
+        "relativePath": "Characters/Players/Theon.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Port-Loyal",
+        "link": "Doyne.md",
+        "relativePath": "Locations/Port-Loyal.md",
+        "displayText": "Doyne"
+      },
+      {
+        "fileName": "Lac de l'Effroi",
+        "link": "Doyne.md",
+        "relativePath": "Locations/Lac de l'Effroi.md",
+        "displayText": "Doyne"
+      }
+    ]
+  },
+  {
+    "fileName": "Forêt de Jade",
+    "relativePath": "Locations/Forêt de Jade.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Misda.md",
+        "displayText": "Misda",
+        "relativePath": "Locations/Misda.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Les anneaux élémentaires",
+        "link": "Forêt de Jade.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Forêt de Jade"
       }
     ]
   },
@@ -597,8 +740,7 @@
     "links": [
       {
         "link": "Faerun",
-        "displayText": "faerun",
-        "relativePath": "Locations/faerun.md"
+        "displayText": "faerun"
       },
       {
         "link": "location.md",
@@ -607,8 +749,7 @@
       },
       {
         "link": "Neverwinter.md",
-        "displayText": "Neverwinter",
-        "relativePath": "Locations/Neverwinter.md"
+        "displayText": "Neverwinter"
       },
       {
         "link": "Neverwinter's region.md",
@@ -618,534 +759,163 @@
     ]
   },
   {
-    "fileName": "1491-01-12",
-    "relativePath": "Journal/1491-01-12.md",
-    "frontmatter": {
-      "tags": null,
-      "creation-date": "25-07-2025",
-      "fc-calendar": "Calendar of Harptos",
-      "fc-date": "1491-01-12",
-      "fc-end": null
-    },
-    "links": [
-      {
-        "link": "Protection d'un carosse",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      },
-      {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "link": "Sauver Gundren et Sildar",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
-      },
-      {
-        "link": "Grotte de la bouche",
-        "relativePath": "Locations/Grotte de la bouche.md"
-      },
-      {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Asriel",
-        "relativePath": "Characters/Players/Asriel.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Protection d'un carosse",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Nim",
-        "relativePath": "Characters/Players/Nim.md"
-      },
-      {
-        "link": "Lauln",
-        "relativePath": "Characters/Players/Lauln.md"
-      }
-    ]
-  },
-  {
-    "fileName": "index",
-    "relativePath": "index.md"
-  },
-  {
-    "fileName": "Nim",
-    "relativePath": "Characters/Players/Nim.md",
+    "fileName": "Panogre",
+    "relativePath": "Characters/NPC/Panogre.md",
     "tags": [
       "character"
     ],
     "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "backlinks": [
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Nim",
-        "relativePath": "Journal/1491-01-12.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lauln",
-    "relativePath": "Characters/Players/Lauln.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "backlinks": [
-      {
-        "fileName": "1491-01-12",
-        "link": "Lauln",
-        "relativePath": "Journal/1491-01-12.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Irina",
-    "relativePath": "Characters/Players/Irina.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
+      "date": "26-07-2025"
     }
   },
   {
-    "fileName": "Asriel",
-    "relativePath": "Characters/Players/Asriel.md",
+    "fileName": "Torald",
+    "relativePath": "Characters/NPC/Torald.md",
     "tags": [
       "character"
     ],
     "frontmatter": {
-      "date": "25-07-2025"
+      "date": "26-07-2025"
     },
     "backlinks": [
       {
-        "fileName": "1491-01-12",
-        "link": "Asriel",
-        "relativePath": "Journal/1491-01-12.md"
+        "fileName": "Les anneaux élémentaires",
+        "link": "Torald.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Torald"
       }
     ]
   },
   {
-    "fileName": "Sildar Oliver",
-    "relativePath": "Characters/NPC/Sildar Oliver.md",
+    "fileName": "Neralyn",
+    "relativePath": "Characters/NPC/Neralyn.md",
     "tags": [
       "character"
     ],
     "frontmatter": {
-      "date": "25-07-2025"
+      "date": "26-07-2025"
     },
-    "links": [
-      {
-        "link": "Neverwinter",
-        "relativePath": "Locations/Neverwinter.md"
-      },
-      {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      }
-    ],
     "backlinks": [
       {
-        "fileName": "Sauver Gundren et Sildar",
-        "link": "Sildar Oliver",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
+        "fileName": "Les anneaux élémentaires",
+        "link": "Neralyn.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Neralyn"
       },
       {
-        "fileName": "Protection d'un carosse",
-        "link": "Sildar Oliver",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "fileName": "Mine de l'écho de vague",
-        "link": "Sildar Oliver",
-        "relativePath": "Locations/Mine de l'écho de vague.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Sildar Oliver",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Sildar Oliver",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "Roi Glorg",
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Roi Glorg.md"
-      },
-      {
-        "fileName": "Gundren Cherchepierre",
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "fileName": "Gundren Cherchepierre",
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
+        "fileName": "Les anneaux élémentaires",
+        "link": "Neralyn.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Neralyn"
       }
     ]
   },
   {
-    "fileName": "Roi Glorg",
-    "relativePath": "Characters/NPC/Roi Glorg.md",
+    "fileName": "Sharp",
+    "relativePath": "Characters/NPC/Sharp.md",
     "tags": [
       "character"
     ],
     "frontmatter": {
-      "date": "25-07-2025"
+      "date": "26-07-2025"
     },
     "links": [
       {
-        "link": "Mine de l'écho de vague",
-        "relativePath": "Locations/Mine de l'écho de vague.md"
+        "link": "Shail",
+        "relativePath": "Characters/Players/Shail.md"
       },
       {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
+        "link": "Reya",
+        "relativePath": "Characters/Players/Reya.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "L'araignée - Nezznar",
-        "link": "Roi Glorg",
-        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
-      },
-      {
-        "fileName": "Clarg",
-        "link": "Roi Glorg",
-        "relativePath": "Characters/NPC/Clarg.md"
+        "fileName": "Les pouvoirs de Sharp",
+        "link": "Sharp",
+        "relativePath": "Quests/Les pouvoirs de Sharp.md"
       }
     ]
   },
   {
-    "fileName": "Le goblin capturé",
-    "relativePath": "Characters/NPC/Le goblin capturé.md",
+    "fileName": "Shail",
+    "relativePath": "Characters/Players/Shail.md",
     "tags": [
       "character"
     ],
     "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "links": [
-      {
-        "link": "Grotte de la bouche",
-        "relativePath": "Locations/Grotte de la bouche.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Iarno",
-    "relativePath": "Characters/NPC/Iarno.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "links": [
-      {
-        "link": "Phandalin",
-        "relativePath": "Locations/Phandalin.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "L'araignée - Nezznar",
-        "link": "Iarno",
-        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
-      }
-    ]
-  },
-  {
-    "fileName": "L'araignée - Nezznar",
-    "relativePath": "Characters/NPC/L'araignée - Nezznar.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "links": [
-      {
-        "link": "Clarg",
-        "relativePath": "Characters/NPC/Clarg.md"
-      },
-      {
-        "link": "Roi Glorg",
-        "relativePath": "Characters/NPC/Roi Glorg.md"
-      },
-      {
-        "link": "Mine de l'écho de vague",
-        "relativePath": "Locations/Mine de l'écho de vague.md"
-      },
-      {
-        "link": "Iarno",
-        "relativePath": "Characters/NPC/Iarno.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Gwenaelle",
-    "relativePath": "Characters/NPC/Gwenaelle.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "links": [
-      {
-        "link": "Neverwinter",
-        "relativePath": "Locations/Neverwinter.md"
-      },
-      {
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "link": "Protection d'un carosse",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mine de l'écho de vague",
-        "link": "Gwenaelle",
-        "relativePath": "Locations/Mine de l'écho de vague.md"
-      },
-      {
-        "fileName": "Gundren Cherchepierre",
-        "link": "Gwenaelle",
-        "relativePath": "Characters/NPC/Gundren Cherchepierre.md"
-      },
-      {
-        "fileName": "Gim",
-        "link": "Gwenaelle",
-        "relativePath": "Characters/NPC/Gim.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Gundren Cherchepierre",
-    "relativePath": "Characters/NPC/Gundren Cherchepierre.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "links": [
-      {
-        "link": "Neverwinter",
-        "relativePath": "Locations/Neverwinter.md"
-      },
-      {
-        "link": "Gwenaelle",
-        "relativePath": "Characters/NPC/Gwenaelle.md"
-      },
-      {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      },
-      {
-        "link": "Protection d'un carosse",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "link": "Sildar Oliver",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sauver Gundren et Sildar",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Quests/Sauver Gundren et Sildar.md"
-      },
-      {
-        "fileName": "Protection d'un carosse",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "fileName": "Protection d'un carosse",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "fileName": "Chateau des Geulederock",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Locations/Chateau des Geulederock.md"
-      },
-      {
-        "fileName": "1491-01-12",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Journal/1491-01-12.md"
-      },
-      {
-        "fileName": "Sildar Oliver",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Sildar Oliver.md"
-      },
-      {
-        "fileName": "Roi Glorg",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Roi Glorg.md"
-      },
-      {
-        "fileName": "Gwenaelle",
-        "link": "Gundren Cherchepierre",
-        "relativePath": "Characters/NPC/Gwenaelle.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Gim",
-    "relativePath": "Characters/NPC/Gim.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
-    },
-    "links": [
-      {
-        "link": "Protection d'un carosse",
-        "relativePath": "Quests/Protection d'un carosse.md"
-      },
-      {
-        "link": "Gwenaelle",
-        "relativePath": "Characters/NPC/Gwenaelle.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Elmina",
-    "relativePath": "Characters/NPC/Elmina.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "25-07-2025"
+      "date": "26-07-2025"
     },
     "backlinks": [
       {
-        "fileName": "Protection d'un carosse",
-        "link": "Elmina",
-        "relativePath": "Quests/Protection d'un carosse.md"
+        "fileName": "Sharp",
+        "link": "Shail",
+        "relativePath": "Characters/NPC/Sharp.md"
       }
     ]
   },
   {
-    "fileName": "Clarg",
-    "relativePath": "Characters/NPC/Clarg.md",
+    "fileName": "Theon",
+    "relativePath": "Characters/Players/Theon.md",
     "tags": [
       "character"
     ],
     "frontmatter": {
-      "date": "25-07-2025"
+      "date": "26-07-2025"
     },
-    "links": [
-      {
-        "link": "Roi Glorg",
-        "relativePath": "Characters/NPC/Roi Glorg.md"
-      }
-    ],
     "backlinks": [
       {
-        "fileName": "L'araignée - Nezznar",
-        "link": "Clarg",
-        "relativePath": "Characters/NPC/L'araignée - Nezznar.md"
+        "fileName": "Doyne",
+        "link": "Theon",
+        "relativePath": "Locations/Doyne.md"
       }
     ]
+  },
+  {
+    "fileName": "Skathi",
+    "relativePath": "Characters/Players/Skathi.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "Mystère du Culte de Lorandis",
+        "link": "Skathi.md",
+        "relativePath": "Quests/Mystère du Culte de Lorandis.md",
+        "displayText": "Skathi"
+      }
+    ]
+  },
+  {
+    "fileName": "Reya",
+    "relativePath": "Characters/Players/Reya.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "Sharp",
+        "link": "Reya",
+        "relativePath": "Characters/NPC/Sharp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ensorceleuses de Lune",
+    "relativePath": "Characters/Organisations/Ensorceleuses de Lune.md",
+    "tags": [
+      "organisation"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "alignment": null
+    }
   },
   {
     "fileName": "1. Characters index",

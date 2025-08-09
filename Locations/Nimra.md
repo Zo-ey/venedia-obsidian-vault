@@ -1,7 +1,7 @@
 ---
 tags:
   - location
-date: 25-07-2025
+date: 02-08-2025
 map: false
 owner:
 ---
@@ -18,3 +18,5 @@ WHERE destination-loc = this.file.name
 
 
 # Information
+
+Ville portuaire de [Venedia](Venedia.md), affiliée à [Lorandis](Lorandis.md)

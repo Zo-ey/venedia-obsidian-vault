@@ -29,6 +29,10 @@
     {
       "folder": "Journal",
       "template": "_templates/daily-journal.md"
+    },
+    {
+      "folder": "Characters/Organisations",
+      "template": "_templates/organisations.md"
     }
   ],
   "enable_file_templates": false,

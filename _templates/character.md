@@ -1,7 +1,12 @@
 ---
+<%*
+let alignment = ""
+title = await tp.system.prompt("Alignment")
+-%>
 tags:
   - character
 date: <% tp.date.now("DD-MM-YYYY", -1) %>
+alignment: <% alignment %>
 ---
 <%*
 let title = ""

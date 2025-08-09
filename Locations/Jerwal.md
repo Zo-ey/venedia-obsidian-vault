@@ -1,7 +1,7 @@
 ---
 tags:
   - location
-date: 26-07-2025
+date: 02-08-2025
 map: false
 owner:
 ---
@@ -19,4 +19,4 @@ WHERE destination-loc = this.file.name
 
 # Information
 
-Ville **portuaire** du nord-ouest de [[Venedia]].
+Ville de [Venedia](Venedia.md).

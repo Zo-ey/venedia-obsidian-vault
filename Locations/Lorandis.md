@@ -1,21 +1,22 @@
 ---
 tags:
   - location
-date:
-  "{ date:DD-MM-YYYY }": 
-map: true
+date: 02-08-2025
+map: false
+owner:
 ---
-
-# Global information
-
-
 # Map
 
 # Quests
+
+
 ```dataview
 LIST
 FROM #quest 
 WHERE destination-loc = this.file.name
 ```
 
+
 # Information
+
+Grande ville de [Venedia](Venedia.md).

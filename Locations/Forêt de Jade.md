@@ -1,13 +1,11 @@
 ---
 tags:
   - location
-date: 26-04-2025
+date: 02-08-2025
 map: false
 owner:
 ---
 # Map
-
-Situé dans [[Neverwinter's region]]
 
 # Quests
 
@@ -18,4 +16,7 @@ FROM #quest
 WHERE destination-loc = this.file.name
 ```
 
+
 # Information
+
+Forêt de [Venedia](Venedia.md) au Nord de [Misda](Misda.md)
