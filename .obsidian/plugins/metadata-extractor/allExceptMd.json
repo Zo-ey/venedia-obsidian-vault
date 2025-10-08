@@ -9,10 +9,6 @@
       "relativePath": "Characters"
     },
     {
-      "name": "Journal",
-      "relativePath": "Journal"
-    },
-    {
       "name": "Locations",
       "relativePath": "Locations"
     },
@@ -29,16 +25,16 @@
       "relativePath": "_templates"
     },
     {
+      "name": "NPC",
+      "relativePath": "Characters/NPC"
+    },
+    {
       "name": "Organisations",
       "relativePath": "Characters/Organisations"
     },
     {
       "name": "Players",
       "relativePath": "Characters/Players"
-    },
-    {
-      "name": "NPC",
-      "relativePath": "Characters/NPC"
     }
   ],
   "nonMdFiles": [

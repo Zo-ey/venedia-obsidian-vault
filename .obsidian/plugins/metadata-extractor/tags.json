@@ -5,25 +5,25 @@
     "relativePaths": [
       "_templates/location.md",
       "Locations/Venedia.md",
+      "Locations/Port-Loyal.md",
       "Locations/Nimra.md",
       "Locations/Neverwinter's region.md",
-      "Locations/Lorandis.md",
-      "Locations/Port-Loyal.md",
-      "Locations/Lac de l'Effroi.md",
       "Locations/Misda.md",
+      "Locations/Lorandis.md",
+      "Locations/Lac de l'Effroi.md",
       "Locations/Jerwal.md",
-      "Locations/Cyria.md",
+      "Locations/Forêt de Jade.md",
       "Locations/Doyne.md",
-      "Locations/Forêt de Jade.md"
+      "Locations/Cyria.md"
     ]
   },
   {
     "tag": "quest",
     "tagCount": 3,
     "relativePaths": [
-      "Quests/Les anneaux élémentaires.md",
       "Quests/Mystère du Culte de Lorandis.md",
-      "Quests/Les pouvoirs de Sharp.md"
+      "Quests/Les pouvoirs de Sharp.md",
+      "Quests/Les anneaux élémentaires.md"
     ]
   },
   {
@@ -39,14 +39,14 @@
     "tag": "character",
     "tagCount": 8,
     "relativePaths": [
-      "Characters/NPC/Panogre.md",
-      "Characters/NPC/Torald.md",
-      "Characters/NPC/Neralyn.md",
-      "Characters/NPC/Sharp.md",
-      "Characters/Players/Shail.md",
       "Characters/Players/Theon.md",
       "Characters/Players/Skathi.md",
-      "Characters/Players/Reya.md"
+      "Characters/Players/Shail.md",
+      "Characters/Players/Reya.md",
+      "Characters/NPC/Torald.md",
+      "Characters/NPC/Sharp.md",
+      "Characters/NPC/Panogre.md",
+      "Characters/NPC/Neralyn.md"
     ]
   },
   {

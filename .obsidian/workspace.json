@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/organisations.md",
+                "file": "Quests/Raf.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "organisations"
+              "title": "Raf"
             }
           },
           {
@@ -198,8 +198,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -219,6 +219,16 @@
           },
           {
             "id": "23aaa0a7153cd9a6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "d81461298b43fc91",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -291,6 +301,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -299,20 +310,27 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "calendarium:Open Calendarium": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "3303a5a2e6ee9719",
   "lastOpenFiles": [
-    "temp-note.md",
+    "Quests/Mystère du Culte de Lorandis.md",
+    "Quests/Raf.md",
+    "Quests/Bal à Lorandis.md",
+    "Quests/Traffic de gemmes de pouvoir à des fins d'attentats.md",
+    "Characters/Organisations/Famille Kerrewel.md",
+    "Quests/Le fils perdu.md",
+    "Characters/Players/Supra.md",
     "_templates/character.md",
+    "Characters/Players/Untitled.md",
+    "Todos.md",
+    "temp-note.md",
     "_templates/organisations.md",
     "_templates/quest.md",
     "_templates/location.md",
-    "Quests/Mystère du Culte de Lorandis.md",
-    "Todos.md",
     "Locations/Lorandis.md",
     "Locations/Port-Loyal.md",
     "Locations/Venedia.md",
@@ -326,13 +344,6 @@
     "Characters/Organisations",
     "Locations/Cyria.md",
     "Locations/Misda.md",
-    "Locations/Nimra.md",
-    "Locations/Jerwal.md",
-    "Locations/Doyne.md",
-    "Locations/Neverwinter's region.md",
-    "Locations/Chateau des Geulederock.md",
-    "Locations/Mine de l'écho de vague.md",
-    "Locations/Neverwinter.md",
     "Welcome.canvas",
     "Journal",
     "_images/004-map-0.01-phandalin-region-player.webp",

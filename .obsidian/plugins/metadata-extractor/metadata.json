@@ -1,5 +1,27 @@
 [
   {
+    "fileName": "temp-note",
+    "relativePath": "temp-note.md"
+  },
+  {
+    "fileName": "quest",
+    "relativePath": "_templates/quest.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      },
+      {
+        "heading": "Evenements",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "organisations",
+    "relativePath": "_templates/organisations.md"
+  },
+  {
     "fileName": "location",
     "relativePath": "_templates/location.md",
     "tags": [
@@ -34,24 +56,6 @@
     ]
   },
   {
-    "fileName": "organisations",
-    "relativePath": "_templates/organisations.md"
-  },
-  {
-    "fileName": "quest",
-    "relativePath": "_templates/quest.md",
-    "headings": [
-      {
-        "heading": "Description",
-        "level": 1
-      },
-      {
-        "heading": "Evenements",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "daily-journal",
     "relativePath": "_templates/daily-journal.md",
     "frontmatter": {
@@ -79,63 +83,12 @@
     "relativePath": "Todos.md"
   },
   {
-    "fileName": "temp-note",
-    "relativePath": "temp-note.md"
-  },
-  {
     "fileName": "README",
     "relativePath": "README.md",
     "headings": [
       {
         "heading": "RPG Obsidian vault configuration",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Les anneaux élémentaires",
-    "relativePath": "Quests/Les anneaux élémentaires.md",
-    "tags": [
-      "quest"
-    ],
-    "frontmatter": {
-      "creation-date": "02-08-2025",
-      "fc-calendar": "Calendar of Harptos",
-      "fc-date": "1491-01-12",
-      "fc-end": null,
-      "destination-loc": "?",
-      "status": false
-    },
-    "headings": [
-      {
-        "heading": "Description",
-        "level": 1
-      },
-      {
-        "heading": "Evenements",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Neralyn.md",
-        "displayText": "Neralyn",
-        "relativePath": "Characters/NPC/Neralyn.md"
-      },
-      {
-        "link": "Neralyn.md",
-        "displayText": "Neralyn",
-        "relativePath": "Characters/NPC/Neralyn.md"
-      },
-      {
-        "link": "Torald.md",
-        "displayText": "Torald",
-        "relativePath": "Characters/NPC/Torald.md"
-      },
-      {
-        "link": "Forêt de Jade.md",
-        "displayText": "Forêt de Jade",
-        "relativePath": "Locations/Forêt de Jade.md"
       }
     ]
   },
@@ -208,6 +161,53 @@
     ]
   },
   {
+    "fileName": "Les anneaux élémentaires",
+    "relativePath": "Quests/Les anneaux élémentaires.md",
+    "tags": [
+      "quest"
+    ],
+    "frontmatter": {
+      "creation-date": "02-08-2025",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "1491-01-12",
+      "fc-end": null,
+      "destination-loc": "?",
+      "status": false
+    },
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      },
+      {
+        "heading": "Evenements",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Neralyn.md",
+        "displayText": "Neralyn",
+        "relativePath": "Characters/NPC/Neralyn.md"
+      },
+      {
+        "link": "Neralyn.md",
+        "displayText": "Neralyn",
+        "relativePath": "Characters/NPC/Neralyn.md"
+      },
+      {
+        "link": "Torald.md",
+        "displayText": "Torald",
+        "relativePath": "Characters/NPC/Torald.md"
+      },
+      {
+        "link": "Forêt de Jade.md",
+        "displayText": "Forêt de Jade",
+        "relativePath": "Locations/Forêt de Jade.md"
+      }
+    ]
+  },
+  {
     "fileName": "1. Quests index",
     "relativePath": "Quests/1. Quests index.md",
     "tags": [
@@ -254,21 +254,26 @@
     ],
     "backlinks": [
       {
+        "fileName": "Port-Loyal",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Port-Loyal.md",
+        "displayText": "Venedia"
+      },
+      {
         "fileName": "Nimra",
         "link": "Venedia.md",
         "relativePath": "Locations/Nimra.md",
         "displayText": "Venedia"
       },
       {
+        "fileName": "Misda",
+        "link": "Venedia",
+        "relativePath": "Locations/Misda.md"
+      },
+      {
         "fileName": "Lorandis",
         "link": "Venedia.md",
         "relativePath": "Locations/Lorandis.md",
-        "displayText": "Venedia"
-      },
-      {
-        "fileName": "Port-Loyal",
-        "link": "Venedia.md",
-        "relativePath": "Locations/Port-Loyal.md",
         "displayText": "Venedia"
       },
       {
@@ -278,20 +283,15 @@
         "displayText": "Venedia"
       },
       {
-        "fileName": "Misda",
-        "link": "Venedia",
-        "relativePath": "Locations/Misda.md"
-      },
-      {
         "fileName": "Jerwal",
         "link": "Venedia.md",
         "relativePath": "Locations/Jerwal.md",
         "displayText": "Venedia"
       },
       {
-        "fileName": "Cyria",
+        "fileName": "Forêt de Jade",
         "link": "Venedia.md",
-        "relativePath": "Locations/Cyria.md",
+        "relativePath": "Locations/Forêt de Jade.md",
         "displayText": "Venedia"
       },
       {
@@ -300,10 +300,48 @@
         "relativePath": "Locations/Doyne.md"
       },
       {
-        "fileName": "Forêt de Jade",
+        "fileName": "Cyria",
         "link": "Venedia.md",
-        "relativePath": "Locations/Forêt de Jade.md",
+        "relativePath": "Locations/Cyria.md",
         "displayText": "Venedia"
+      }
+    ]
+  },
+  {
+    "fileName": "Port-Loyal",
+    "relativePath": "Locations/Port-Loyal.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Doyne.md",
+        "displayText": "Doyne",
+        "relativePath": "Locations/Doyne.md"
       }
     ]
   },
@@ -380,133 +418,6 @@
     ]
   },
   {
-    "fileName": "Lorandis",
-    "relativePath": "Locations/Lorandis.md",
-    "tags": [
-      "location"
-    ],
-    "frontmatter": {
-      "date": "02-08-2025",
-      "map": false,
-      "owner": null
-    },
-    "headings": [
-      {
-        "heading": "Map",
-        "level": 1
-      },
-      {
-        "heading": "Quests",
-        "level": 1
-      },
-      {
-        "heading": "Information",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Venedia.md",
-        "displayText": "Venedia",
-        "relativePath": "Locations/Venedia.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Nimra",
-        "link": "Lorandis.md",
-        "relativePath": "Locations/Nimra.md",
-        "displayText": "Lorandis"
-      }
-    ]
-  },
-  {
-    "fileName": "Port-Loyal",
-    "relativePath": "Locations/Port-Loyal.md",
-    "tags": [
-      "location"
-    ],
-    "frontmatter": {
-      "date": "02-08-2025",
-      "map": false,
-      "owner": null
-    },
-    "headings": [
-      {
-        "heading": "Map",
-        "level": 1
-      },
-      {
-        "heading": "Quests",
-        "level": 1
-      },
-      {
-        "heading": "Information",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Venedia.md",
-        "displayText": "Venedia",
-        "relativePath": "Locations/Venedia.md"
-      },
-      {
-        "link": "Doyne.md",
-        "displayText": "Doyne",
-        "relativePath": "Locations/Doyne.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lac de l'Effroi",
-    "relativePath": "Locations/Lac de l'Effroi.md",
-    "tags": [
-      "location"
-    ],
-    "frontmatter": {
-      "date": "02-08-2025",
-      "map": false,
-      "owner": null
-    },
-    "headings": [
-      {
-        "heading": "Map",
-        "level": 1
-      },
-      {
-        "heading": "Quests",
-        "level": 1
-      },
-      {
-        "heading": "Information",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Venedia.md",
-        "displayText": "Venedia",
-        "relativePath": "Locations/Venedia.md"
-      },
-      {
-        "link": "Misda.md",
-        "displayText": "Misda",
-        "relativePath": "Locations/Misda.md"
-      },
-      {
-        "link": "Doyne.md",
-        "displayText": "Doyne",
-        "relativePath": "Locations/Doyne.md"
-      },
-      {
-        "link": "Cyria.md",
-        "displayText": "Cyria",
-        "relativePath": "Locations/Cyria.md"
-      }
-    ]
-  },
-  {
     "fileName": "Misda",
     "relativePath": "Locations/Misda.md",
     "tags": [
@@ -559,6 +470,95 @@
     ]
   },
   {
+    "fileName": "Lorandis",
+    "relativePath": "Locations/Lorandis.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Nimra",
+        "link": "Lorandis.md",
+        "relativePath": "Locations/Nimra.md",
+        "displayText": "Lorandis"
+      }
+    ]
+  },
+  {
+    "fileName": "Lac de l'Effroi",
+    "relativePath": "Locations/Lac de l'Effroi.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Misda.md",
+        "displayText": "Misda",
+        "relativePath": "Locations/Misda.md"
+      },
+      {
+        "link": "Doyne.md",
+        "displayText": "Doyne",
+        "relativePath": "Locations/Doyne.md"
+      },
+      {
+        "link": "Cyria.md",
+        "displayText": "Cyria",
+        "relativePath": "Locations/Cyria.md"
+      }
+    ]
+  },
+  {
     "fileName": "Jerwal",
     "relativePath": "Locations/Jerwal.md",
     "tags": [
@@ -592,8 +592,8 @@
     ]
   },
   {
-    "fileName": "Cyria",
-    "relativePath": "Locations/Cyria.md",
+    "fileName": "Forêt de Jade",
+    "relativePath": "Locations/Forêt de Jade.md",
     "tags": [
       "location"
     ],
@@ -621,14 +621,19 @@
         "link": "Venedia.md",
         "displayText": "Venedia",
         "relativePath": "Locations/Venedia.md"
+      },
+      {
+        "link": "Misda.md",
+        "displayText": "Misda",
+        "relativePath": "Locations/Misda.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Lac de l'Effroi",
-        "link": "Cyria.md",
-        "relativePath": "Locations/Lac de l'Effroi.md",
-        "displayText": "Cyria"
+        "fileName": "Les anneaux élémentaires",
+        "link": "Forêt de Jade.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Forêt de Jade"
       }
     ]
   },
@@ -683,8 +688,8 @@
     ]
   },
   {
-    "fileName": "Forêt de Jade",
-    "relativePath": "Locations/Forêt de Jade.md",
+    "fileName": "Cyria",
+    "relativePath": "Locations/Cyria.md",
     "tags": [
       "location"
     ],
@@ -712,19 +717,14 @@
         "link": "Venedia.md",
         "displayText": "Venedia",
         "relativePath": "Locations/Venedia.md"
-      },
-      {
-        "link": "Misda.md",
-        "displayText": "Misda",
-        "relativePath": "Locations/Misda.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Les anneaux élémentaires",
-        "link": "Forêt de Jade.md",
-        "relativePath": "Quests/Les anneaux élémentaires.md",
-        "displayText": "Forêt de Jade"
+        "fileName": "Lac de l'Effroi",
+        "link": "Cyria.md",
+        "relativePath": "Locations/Lac de l'Effroi.md",
+        "displayText": "Cyria"
       }
     ]
   },
@@ -755,102 +755,6 @@
         "link": "Neverwinter's region.md",
         "displayText": "Neverwinter's region",
         "relativePath": "Locations/Neverwinter's region.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Panogre",
-    "relativePath": "Characters/NPC/Panogre.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "26-07-2025"
-    }
-  },
-  {
-    "fileName": "Torald",
-    "relativePath": "Characters/NPC/Torald.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "26-07-2025"
-    },
-    "backlinks": [
-      {
-        "fileName": "Les anneaux élémentaires",
-        "link": "Torald.md",
-        "relativePath": "Quests/Les anneaux élémentaires.md",
-        "displayText": "Torald"
-      }
-    ]
-  },
-  {
-    "fileName": "Neralyn",
-    "relativePath": "Characters/NPC/Neralyn.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "26-07-2025"
-    },
-    "backlinks": [
-      {
-        "fileName": "Les anneaux élémentaires",
-        "link": "Neralyn.md",
-        "relativePath": "Quests/Les anneaux élémentaires.md",
-        "displayText": "Neralyn"
-      },
-      {
-        "fileName": "Les anneaux élémentaires",
-        "link": "Neralyn.md",
-        "relativePath": "Quests/Les anneaux élémentaires.md",
-        "displayText": "Neralyn"
-      }
-    ]
-  },
-  {
-    "fileName": "Sharp",
-    "relativePath": "Characters/NPC/Sharp.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "26-07-2025"
-    },
-    "links": [
-      {
-        "link": "Shail",
-        "relativePath": "Characters/Players/Shail.md"
-      },
-      {
-        "link": "Reya",
-        "relativePath": "Characters/Players/Reya.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Les pouvoirs de Sharp",
-        "link": "Sharp",
-        "relativePath": "Quests/Les pouvoirs de Sharp.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Shail",
-    "relativePath": "Characters/Players/Shail.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "26-07-2025"
-    },
-    "backlinks": [
-      {
-        "fileName": "Sharp",
-        "link": "Shail",
-        "relativePath": "Characters/NPC/Sharp.md"
       }
     ]
   },
@@ -890,6 +794,23 @@
     ]
   },
   {
+    "fileName": "Shail",
+    "relativePath": "Characters/Players/Shail.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "Sharp",
+        "link": "Shail",
+        "relativePath": "Characters/NPC/Sharp.md"
+      }
+    ]
+  },
+  {
     "fileName": "Reya",
     "relativePath": "Characters/Players/Reya.md",
     "tags": [
@@ -916,6 +837,85 @@
       "date": "02-08-2025",
       "alignment": null
     }
+  },
+  {
+    "fileName": "Torald",
+    "relativePath": "Characters/NPC/Torald.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "Les anneaux élémentaires",
+        "link": "Torald.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Torald"
+      }
+    ]
+  },
+  {
+    "fileName": "Sharp",
+    "relativePath": "Characters/NPC/Sharp.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    },
+    "links": [
+      {
+        "link": "Shail",
+        "relativePath": "Characters/Players/Shail.md"
+      },
+      {
+        "link": "Reya",
+        "relativePath": "Characters/Players/Reya.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Les pouvoirs de Sharp",
+        "link": "Sharp",
+        "relativePath": "Quests/Les pouvoirs de Sharp.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Panogre",
+    "relativePath": "Characters/NPC/Panogre.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    }
+  },
+  {
+    "fileName": "Neralyn",
+    "relativePath": "Characters/NPC/Neralyn.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "26-07-2025"
+    },
+    "backlinks": [
+      {
+        "fileName": "Les anneaux élémentaires",
+        "link": "Neralyn.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Neralyn"
+      },
+      {
+        "fileName": "Les anneaux élémentaires",
+        "link": "Neralyn.md",
+        "relativePath": "Quests/Les anneaux élémentaires.md",
+        "displayText": "Neralyn"
+      }
+    ]
   },
   {
     "fileName": "1. Characters index",

@@ -14,6 +14,6 @@ status: false
 |            |          Venedia          |             |                     |
 # Description
 
-Arrivés à [Misda](../Locations/Misda.md), nous découvrons que cinquantes soldats de Lorandis et de Nimra massacrent le village. A l'arrière, [Skathi](../Characters/Players/Skathi.md)
+Arrivés à [Misda](../Locations/Misda.md), nous découvrons que cinquantes soldats de Lorandis et de Nimra massacrent le village. A l'arrière, [Skathi](../Characters/Players/Skathi.md) découvre
 
 # Evenements
