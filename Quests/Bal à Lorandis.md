@@ -14,6 +14,9 @@ status: false
 |            |          Lorandis          |             |                     |
 # Description
 
-Nous avons été invités par [Supra](../Characters/Players/Supra.md). Commence en début de soirée.
+Nous avons été invités par [Supra](../Characters/Players/Supra.md) de [Lorandis](../Locations/Lorandis.md). Commence en début de soirée.
 
 # Evenements
+
+- Après [Raf](Raf.md)
+- Nous nous dirigeons dans les grandes galeries de Lorandis dans le but d'obtenir des vêtements

@@ -22,4 +22,3 @@ L'ancien cultiste que nous avons emmené avec nous et nommé Raf semble se dirig
 - en sous-sol on découvre des cultistes en cercle en train de faire un rituel. Raf semble vouloir les rejoindre
 - On stoppe le rituel, ils nous attaquent.
 - On les bat
-- 
