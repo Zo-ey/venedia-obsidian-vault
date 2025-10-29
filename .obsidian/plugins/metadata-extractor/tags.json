@@ -41,17 +41,23 @@
   },
   {
     "tag": "character",
-    "tagCount": 9,
+    "tagCount": 15,
     "relativePaths": [
       "Characters/Players/Theon.md",
       "Characters/Players/Supra.md",
       "Characters/Players/Skathi.md",
       "Characters/Players/Shail.md",
       "Characters/Players/Reya.md",
+      "Characters/NPC/Zepha Verodon.md",
       "Characters/NPC/Torald.md",
+      "Characters/NPC/Supra.md",
       "Characters/NPC/Sharp.md",
       "Characters/NPC/Panogre.md",
-      "Characters/NPC/Neralyn.md"
+      "Characters/NPC/Oriel Verodon.md",
+      "Characters/NPC/Neralyn.md",
+      "Characters/NPC/Lexus Archandor.md",
+      "Characters/NPC/Elestria.md",
+      "Characters/NPC/Avrus Folatis.md"
     ]
   },
   {

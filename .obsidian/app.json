@@ -3,5 +3,6 @@
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "vimMode": true
 }
