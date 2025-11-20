@@ -39,3 +39,7 @@ Nous avons été invités par [Supra](../Characters/Players/Supra.md) de [Lorand
 - On sort, Skathi et moi, pour prévnir les autres du vol du toutou et on décide d'aller le marquer grâce à Théo pour pouvoir retourner le chercher plus tard.
 - Quelqu'un dans la foule crie et devient enragé avec des mains qui triple de taille. Début du combat pendant que Théo essaie toujours d'aller marquer Sharp.
 - Les deux Astorval, qui sont du côté de Théo, boivent une fiole chacun et rejoignent le combat.
+- Beaucoup de gens transformés par des ennemis qui avaient des sarbacanes et qui étaient enragés, beaucoup de pouvoirs différents
+- Théo, de son côté, finit par retrouver Lexus et a tenté de le convaincre que Sharp est son chien, sans succès. Après une altercation entre eux, Théo l'empoisonne avant de venir nous rejoindre.
+- En discutant avec les Astorval, ils nous donnent discrètement les informations sur comment obtenir les potions qui donnent des pouvoirs: en allant dans les sous-terrains en dehors de la ville.
+- On retourne à la taverne sous-terraine
