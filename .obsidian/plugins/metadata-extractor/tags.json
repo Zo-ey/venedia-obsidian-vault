@@ -41,13 +41,15 @@
   },
   {
     "tag": "character",
-    "tagCount": 15,
+    "tagCount": 17,
     "relativePaths": [
       "Characters/Players/Theon.md",
       "Characters/Players/Supra.md",
       "Characters/Players/Skathi.md",
       "Characters/Players/Shail.md",
       "Characters/Players/Reya.md",
+      "Characters/NPC/Narielle.md",
+      "Characters/NPC/Solume.md",
       "Characters/NPC/Zepha Verodon.md",
       "Characters/NPC/Torald.md",
       "Characters/NPC/Supra.md",

@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Avrus Folatis.md",
+                "file": "Journal/1491-01-12-S34.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avrus Folatis"
+              "title": "1491-01-12-S34"
             }
           },
           {
@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "e10d53970316a378",
@@ -64,12 +64,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Narielle.md",
+                "file": "Characters/NPC/Verloppe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narielle"
+              "title": "Verloppe"
             }
           }
         ]
@@ -300,7 +300,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_a87aa92a1b5b",
                 "id": "ID_a868f9cabb99",
                 "parent": "ID_2ae8aa2898da"
               },
@@ -330,14 +329,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "21b34f9695ede137",
+  "active": "781c1df02737a3b7",
   "lastOpenFiles": [
-    "Characters/NPC/Solume.md",
+    "Characters/NPC/Verloppe.md",
     "Characters/NPC/Narielle.md",
+    "Journal/1491-01-12-S34.md",
+    "Characters/NPC/Kvarihr.md",
+    "Locations/Taverne Secrète.md",
     "Quests/Bal à Lorandis.md",
+    "Journal",
+    "Characters/NPC/Avrus Folatis.md",
+    "Characters/NPC/Solume.md",
     "Characters/NPC/Lexus Archandor.md",
     "Characters/NPC/Elestria.md",
-    "Characters/NPC/Avrus Folatis.md",
     "Characters/NPC/Zepha Verodon.md",
     "Characters/NPC/Oriel Verodon.md",
     "temp-note.md",
@@ -354,10 +358,6 @@
     "_templates/organisations.md",
     "_templates/quest.md",
     "_templates/location.md",
-    "Locations/Lorandis.md",
-    "Locations/Port-Loyal.md",
-    "Locations/Venedia.md",
-    "Quests/Les anneaux élémentaires.md",
     "Characters/Organisations",
     "Welcome.canvas",
     "Journal",
@@ -368,7 +368,6 @@
     "Quests",
     "Locations",
     "Characters/Players",
-    "Characters/NPC",
-    "_templates"
+    "Characters/NPC"
   ]
 }

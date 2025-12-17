@@ -683,6 +683,18 @@
         "displayText": "Lorandis"
       },
       {
+        "fileName": "Narielle",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Narielle.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Solume",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Solume.md",
+        "displayText": "Lorandis"
+      },
+      {
         "fileName": "Zepha Verodon",
         "link": "Lorandis.md",
         "relativePath": "Characters/NPC/Zepha Verodon.md",
@@ -1090,6 +1102,68 @@
       "date": "02-08-2025",
       "alignment": null
     }
+  },
+  {
+    "fileName": "Narielle",
+    "relativePath": "Characters/NPC/Narielle.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "19-11-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Solume.md",
+        "displayText": "Solume",
+        "relativePath": "Characters/NPC/Solume.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Solume",
+        "link": "Narielle.md",
+        "relativePath": "Characters/NPC/Solume.md",
+        "displayText": "Narielle"
+      }
+    ]
+  },
+  {
+    "fileName": "Solume",
+    "relativePath": "Characters/NPC/Solume.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "19-11-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Narielle.md",
+        "displayText": "Narielle",
+        "relativePath": "Characters/NPC/Narielle.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Narielle",
+        "link": "Solume.md",
+        "relativePath": "Characters/NPC/Narielle.md",
+        "displayText": "Solume"
+      }
+    ]
   },
   {
     "fileName": "Zepha Verodon",
