@@ -21,6 +21,10 @@
       "relativePath": "_images"
     },
     {
+      "name": "Journal",
+      "relativePath": "Journal"
+    },
+    {
       "name": "_templates",
       "relativePath": "_templates"
     },
