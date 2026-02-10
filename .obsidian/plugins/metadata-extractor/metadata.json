@@ -157,9 +157,15 @@
     ],
     "backlinks": [
       {
+<<<<<<< HEAD
         "fileName": "Le fils perdu",
         "link": "Raf.md",
         "relativePath": "Quests/Le fils perdu.md",
+=======
+        "fileName": "Bal à Lorandis",
+        "link": "Raf.md",
+        "relativePath": "Quests/Bal à Lorandis.md",
+>>>>>>> origin/main
         "displayText": "Raf"
       }
     ]
@@ -302,6 +308,7 @@
         "heading": "Evenements",
         "level": 1
       }
+<<<<<<< HEAD
     ],
     "links": [
       {
@@ -309,6 +316,8 @@
         "displayText": "Raf",
         "relativePath": "Quests/Raf.md"
       }
+=======
+>>>>>>> origin/main
     ]
   },
   {
@@ -340,6 +349,42 @@
         "link": "Supra.md",
         "displayText": "Supra",
         "relativePath": "Characters/Players/Supra.md"
+<<<<<<< HEAD
+=======
+      },
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Raf.md",
+        "displayText": "Raf",
+        "relativePath": "Quests/Raf.md"
+      },
+      {
+        "link": "Supra.md",
+        "displayText": "Supra",
+        "relativePath": "Characters/Players/Supra.md"
+      },
+      {
+        "link": "Lexus Archandor.md",
+        "displayText": "Lexus Archandor",
+        "relativePath": "Characters/NPC/Lexus Archandor.md"
+      },
+      {
+        "link": "Sharp.md",
+        "displayText": "Sharp",
+        "relativePath": "Characters/NPC/Sharp.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Supra",
+        "link": "Bal à Lorandis.md",
+        "relativePath": "Characters/NPC/Supra.md",
+        "displayText": "Bal à Lorandis"
+>>>>>>> origin/main
       }
     ]
   },
@@ -645,9 +690,48 @@
         "displayText": "Lorandis"
       },
       {
+<<<<<<< HEAD
+=======
+        "fileName": "Bal à Lorandis",
+        "link": "Lorandis.md",
+        "relativePath": "Quests/Bal à Lorandis.md",
+        "displayText": "Lorandis"
+      },
+      {
+>>>>>>> origin/main
         "fileName": "Nimra",
         "link": "Lorandis.md",
         "relativePath": "Locations/Nimra.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Narielle",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Narielle.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Solume",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Solume.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Zepha Verodon",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Zepha Verodon.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Supra",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Supra.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Avrus Folatis",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Avrus Folatis.md",
         "displayText": "Lorandis"
       }
     ]
@@ -937,6 +1021,15 @@
         "link": "Supra.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Supra"
+<<<<<<< HEAD
+=======
+      },
+      {
+        "fileName": "Bal à Lorandis",
+        "link": "Supra.md",
+        "relativePath": "Quests/Bal à Lorandis.md",
+        "displayText": "Supra"
+>>>>>>> origin/main
       }
     ]
   },
@@ -1036,6 +1129,91 @@
     }
   },
   {
+    "fileName": "Narielle",
+    "relativePath": "Characters/NPC/Narielle.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "19-11-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Solume.md",
+        "displayText": "Solume",
+        "relativePath": "Characters/NPC/Solume.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Solume",
+        "link": "Narielle.md",
+        "relativePath": "Characters/NPC/Solume.md",
+        "displayText": "Narielle"
+      }
+    ]
+  },
+  {
+    "fileName": "Solume",
+    "relativePath": "Characters/NPC/Solume.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "19-11-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Narielle.md",
+        "displayText": "Narielle",
+        "relativePath": "Characters/NPC/Narielle.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Narielle",
+        "link": "Solume.md",
+        "relativePath": "Characters/NPC/Narielle.md",
+        "displayText": "Solume"
+      }
+    ]
+  },
+  {
+    "fileName": "Zepha Verodon",
+    "relativePath": "Characters/NPC/Zepha Verodon.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "28-10-2025",
+      "alignment": "neutre"
+    },
+    "links": [
+      {
+        "link": "Oriel Verodon.md",
+        "displayText": "Oriel Verodon",
+        "relativePath": "Characters/NPC/Oriel Verodon.md"
+      },
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      }
+    ]
+  },
+  {
     "fileName": "Torald",
     "relativePath": "Characters/NPC/Torald.md",
     "tags": [
@@ -1050,6 +1228,29 @@
         "link": "Torald.md",
         "relativePath": "Quests/Les anneaux élémentaires.md",
         "displayText": "Torald"
+      }
+    ]
+  },
+  {
+    "fileName": "Supra",
+    "relativePath": "Characters/NPC/Supra.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "28-10-2025",
+      "alignment": "Good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Bal à Lorandis.md",
+        "displayText": "Bal à Lorandis",
+        "relativePath": "Quests/Bal à Lorandis.md"
       }
     ]
   },
@@ -1077,6 +1278,12 @@
         "fileName": "Les pouvoirs de Sharp",
         "link": "Sharp",
         "relativePath": "Quests/Les pouvoirs de Sharp.md"
+      },
+      {
+        "fileName": "Bal à Lorandis",
+        "link": "Sharp.md",
+        "relativePath": "Quests/Bal à Lorandis.md",
+        "displayText": "Sharp"
       }
     ]
   },
@@ -1089,6 +1296,25 @@
     "frontmatter": {
       "date": "26-07-2025"
     }
+  },
+  {
+    "fileName": "Oriel Verodon",
+    "relativePath": "Characters/NPC/Oriel Verodon.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "28-10-2025",
+      "alignment": "neutre"
+    },
+    "backlinks": [
+      {
+        "fileName": "Zepha Verodon",
+        "link": "Oriel Verodon.md",
+        "relativePath": "Characters/NPC/Zepha Verodon.md",
+        "displayText": "Oriel Verodon"
+      }
+    ]
   },
   {
     "fileName": "Neralyn",
@@ -1111,6 +1337,69 @@
         "link": "Neralyn.md",
         "relativePath": "Quests/Les anneaux élémentaires.md",
         "displayText": "Neralyn"
+      }
+    ]
+  },
+  {
+    "fileName": "Lexus Archandor",
+    "relativePath": "Characters/NPC/Lexus Archandor.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "28-10-2025",
+      "alignment": "neutre"
+    },
+    "backlinks": [
+      {
+        "fileName": "Bal à Lorandis",
+        "link": "Lexus Archandor.md",
+        "relativePath": "Quests/Bal à Lorandis.md",
+        "displayText": "Lexus Archandor"
+      }
+    ]
+  },
+  {
+    "fileName": "Elestria",
+    "relativePath": "Characters/NPC/Elestria.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "28-10-2025",
+      "alignment": "neutre"
+    },
+    "links": [
+      {
+        "link": "Avrus Folatis.md",
+        "displayText": "Avrus Folatis",
+        "relativePath": "Characters/NPC/Avrus Folatis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Avrus Folatis",
+    "relativePath": "Characters/NPC/Avrus Folatis.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "28-10-2025",
+      "alignment": "neutre"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Elestria",
+        "link": "Avrus Folatis.md",
+        "relativePath": "Characters/NPC/Elestria.md",
+        "displayText": "Avrus Folatis"
       }
     ]
   },
