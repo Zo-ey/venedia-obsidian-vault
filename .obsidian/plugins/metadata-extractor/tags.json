@@ -19,11 +19,15 @@
   },
   {
     "tag": "quest",
-    "tagCount": 3,
+    "tagCount": 7,
     "relativePaths": [
+      "Quests/Traffic de gemmes de pouvoir à des fins d'attentats.md",
+      "Quests/Raf.md",
       "Quests/Mystère du Culte de Lorandis.md",
       "Quests/Les pouvoirs de Sharp.md",
-      "Quests/Les anneaux élémentaires.md"
+      "Quests/Les anneaux élémentaires.md",
+      "Quests/Le fils perdu.md",
+      "Quests/Bal à Lorandis.md"
     ]
   },
   {
@@ -37,9 +41,10 @@
   },
   {
     "tag": "character",
-    "tagCount": 8,
+    "tagCount": 9,
     "relativePaths": [
       "Characters/Players/Theon.md",
+      "Characters/Players/Supra.md",
       "Characters/Players/Skathi.md",
       "Characters/Players/Shail.md",
       "Characters/Players/Reya.md",
@@ -51,8 +56,9 @@
   },
   {
     "tag": "organisation",
-    "tagCount": 1,
+    "tagCount": 2,
     "relativePaths": [
+      "Characters/Organisations/Famille Kerrewel.md",
       "Characters/Organisations/Ensorceleuses de Lune.md"
     ]
   }

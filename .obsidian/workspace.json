@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Raf.md",
+                "file": "Quests/Le fils perdu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raf"
+              "title": "Le fils perdu"
             }
           },
           {
@@ -310,15 +310,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3303a5a2e6ee9719",
   "lastOpenFiles": [
-    "Quests/Mystère du Culte de Lorandis.md",
     "Quests/Raf.md",
+    "Quests/Mystère du Culte de Lorandis.md",
     "Quests/Bal à Lorandis.md",
     "Quests/Traffic de gemmes de pouvoir à des fins d'attentats.md",
     "Characters/Organisations/Famille Kerrewel.md",
