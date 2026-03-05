@@ -45,7 +45,15 @@
   },
   {
     "tag": "character",
+<<<<<<< HEAD
     "tagCount": 23,
+=======
+<<<<<<< HEAD
+    "tagCount": 9,
+=======
+    "tagCount": 17,
+>>>>>>> origin/main
+>>>>>>> origin/main
     "relativePaths": [
       "Characters/Players/Theon.md",
       "Characters/Players/Supra.md",

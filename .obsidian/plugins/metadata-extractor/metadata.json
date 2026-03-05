@@ -369,9 +369,15 @@
     ],
     "backlinks": [
       {
+<<<<<<< HEAD
+        "fileName": "Le fils perdu",
+        "link": "Raf.md",
+        "relativePath": "Quests/Le fils perdu.md",
+=======
         "fileName": "Bal à Lorandis",
         "link": "Raf.md",
         "relativePath": "Quests/Bal à Lorandis.md",
+>>>>>>> origin/main
         "displayText": "Raf"
       }
     ]
@@ -514,6 +520,16 @@
         "heading": "Evenements",
         "level": 1
       }
+<<<<<<< HEAD
+    ],
+    "links": [
+      {
+        "link": "Raf.md",
+        "displayText": "Raf",
+        "relativePath": "Quests/Raf.md"
+      }
+=======
+>>>>>>> origin/main
     ]
   },
   {
@@ -590,6 +606,8 @@
         "link": "Supra.md",
         "displayText": "Supra",
         "relativePath": "Characters/Players/Supra.md"
+<<<<<<< HEAD
+=======
       },
       {
         "link": "Lorandis.md",
@@ -635,6 +653,7 @@
         "link": "Bal à Lorandis.md",
         "relativePath": "Characters/NPC/Supra.md",
         "displayText": "Bal à Lorandis"
+>>>>>>> origin/main
       }
     ]
   },
@@ -1026,18 +1045,24 @@
         "displayText": "Lorandis"
       },
       {
+<<<<<<< HEAD
+=======
         "fileName": "Bal à Lorandis",
         "link": "Lorandis.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Lorandis"
       },
       {
+<<<<<<< HEAD
         "fileName": "Taverne Secrète",
         "link": "Lorandis.md",
         "relativePath": "Locations/Taverne Secrète.md",
         "displayText": "Lorandis"
       },
       {
+=======
+>>>>>>> origin/main
+>>>>>>> origin/main
         "fileName": "Nimra",
         "link": "Lorandis.md",
         "relativePath": "Locations/Nimra.md",
@@ -1372,12 +1397,15 @@
         "link": "Supra.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Supra"
+<<<<<<< HEAD
+=======
       },
       {
         "fileName": "Bal à Lorandis",
         "link": "Supra.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Supra"
+>>>>>>> origin/main
       }
     ]
   },
