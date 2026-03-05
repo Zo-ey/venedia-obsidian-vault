@@ -21,12 +21,12 @@
       "relativePath": "_images"
     },
     {
-      "name": "Journal",
-      "relativePath": "Journal"
-    },
-    {
       "name": "_templates",
       "relativePath": "_templates"
+    },
+    {
+      "name": "Journal",
+      "relativePath": "Journal"
     },
     {
       "name": "NPC",

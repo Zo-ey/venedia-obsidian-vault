@@ -1,33 +1,36 @@
 [
   {
     "tag": "location",
-    "tagCount": 13,
+    "tagCount": 14,
     "relativePaths": [
       "_templates/location.md",
-      "Locations/Venedia.md",
+      "Locations/Donjon de Fordis.md",
       "Locations/Taverne Secrète.md",
+      "Locations/Venedia.md",
       "Locations/Port-Loyal.md",
       "Locations/Nimra.md",
       "Locations/Neverwinter's region.md",
       "Locations/Misda.md",
       "Locations/Lorandis.md",
       "Locations/Lac de l'Effroi.md",
-      "Locations/Forêt de Jade.md",
       "Locations/Jerwal.md",
+      "Locations/Forêt de Jade.md",
       "Locations/Doyne.md",
       "Locations/Cyria.md"
     ]
   },
   {
     "tag": "quest",
-    "tagCount": 7,
+    "tagCount": 9,
     "relativePaths": [
       "Quests/Traffic de gemmes de pouvoir à des fins d'attentats.md",
+      "Quests/Récupérons Sharp !.md",
       "Quests/Raf.md",
       "Quests/Mystère du Culte de Lorandis.md",
       "Quests/Les pouvoirs de Sharp.md",
       "Quests/Les anneaux élémentaires.md",
       "Quests/Le fils perdu.md",
+      "Quests/Escorte de Salem.md",
       "Quests/Bal à Lorandis.md"
     ]
   },
@@ -42,12 +45,12 @@
   },
   {
     "tag": "character",
-    "tagCount": 19,
+    "tagCount": 23,
     "relativePaths": [
       "Characters/Players/Theon.md",
       "Characters/Players/Supra.md",
-      "Characters/Players/Shail.md",
       "Characters/Players/Skathi.md",
+      "Characters/Players/Shail.md",
       "Characters/Players/Reya.md",
       "Characters/NPC/Zepha Verodon.md",
       "Characters/NPC/Verloppe.md",
@@ -55,12 +58,16 @@
       "Characters/NPC/Supra.md",
       "Characters/NPC/Solume.md",
       "Characters/NPC/Sharp.md",
+      "Characters/NPC/Salemandorya.md",
+      "Characters/NPC/Pristine.md",
       "Characters/NPC/Panogre.md",
       "Characters/NPC/Oriel Verodon.md",
       "Characters/NPC/Neralyn.md",
+      "Characters/NPC/Nellin Sharden.md",
       "Characters/NPC/Narielle.md",
       "Characters/NPC/Lexus Archandor.md",
       "Characters/NPC/Kvarihr.md",
+      "Characters/NPC/Evan Lockhart.md",
       "Characters/NPC/Elestria.md",
       "Characters/NPC/Avrus Folatis.md"
     ]
