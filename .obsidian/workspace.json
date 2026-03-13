@@ -42,30 +42,18 @@
             "id": "f1fcee9ab0e718f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Journal/1491-01-12-S34.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1491-01-12-S34"
-            }
-          },
-          {
-            "id": "fb05a1e172dbec43",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,11 +301,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fb05a1e172dbec43",
+  "active": "f1fcee9ab0e718f8",
   "lastOpenFiles": [
-    "temp-note.md",
     "Journal/1491-01-12-S34.md",
     "conflict-files-obsidian-git.md",
+    "Quests/Récupérons Sharp !.md",
+    "Quests/Escorte de Salem.md",
+    "Locations/Donjon de Fordis.md",
+    "Journal/1491-01-14-S35-36.md",
+    "Journal/1491-01-13-S35.md",
+    "Characters/NPC/Salemandorya.md",
+    "Characters/NPC/Pristine.md",
+    "Characters/NPC/Nellin Sharden.md",
+    "Characters/NPC/Goût de chaise.md",
+    "Characters/NPC/Evan Lockhart.md",
+    "temp-note.md",
     "Quests/Le fils perdu.md",
     "Locations/Taverne Secrète.md",
     "Journal",
@@ -332,16 +330,6 @@
     "Characters/NPC/Elestria.md",
     "Characters/NPC/Avrus Folatis.md",
     "Quests/Raf.md",
-    "Quests/Mystère du Culte de Lorandis.md",
-    "Quests/Bal à Lorandis.md",
-    "Quests/Traffic de gemmes de pouvoir à des fins d'attentats.md",
-    "Characters/Organisations/Famille Kerrewel.md",
-    "Characters/Players/Supra.md",
-    "_templates/character.md",
-    "Characters/Players/Untitled.md",
-    "Todos.md",
-    "_templates/organisations.md",
-    "_templates/quest.md",
     "Characters/Organisations",
     "Welcome.canvas",
     "_images/004-map-0.01-phandalin-region-player.webp",

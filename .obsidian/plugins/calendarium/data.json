@@ -267,7 +267,7 @@
         "eras": []
       },
       "current": {
-        "day": 12,
+        "day": 14,
         "month": 0,
         "year": 1491
       },
@@ -497,7 +497,7 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
+  "askedAboutSync": true,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
   "paths": [

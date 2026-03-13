@@ -1,9 +1,15 @@
 [
   {
     "tag": "location",
+<<<<<<< HEAD
     "tagCount": 13,
+=======
+    "tagCount": 14,
+>>>>>>> origin/main
     "relativePaths": [
       "_templates/location.md",
+      "Locations/Donjon de Fordis.md",
+      "Locations/Taverne Secrète.md",
       "Locations/Venedia.md",
       "Locations/Taverne Secrète.md",
       "Locations/Port-Loyal.md",
@@ -20,14 +26,16 @@
   },
   {
     "tag": "quest",
-    "tagCount": 7,
+    "tagCount": 9,
     "relativePaths": [
       "Quests/Traffic de gemmes de pouvoir à des fins d'attentats.md",
+      "Quests/Récupérons Sharp !.md",
       "Quests/Raf.md",
       "Quests/Mystère du Culte de Lorandis.md",
       "Quests/Les pouvoirs de Sharp.md",
       "Quests/Les anneaux élémentaires.md",
       "Quests/Le fils perdu.md",
+      "Quests/Escorte de Salem.md",
       "Quests/Bal à Lorandis.md"
     ]
   },
@@ -42,7 +50,19 @@
   },
   {
     "tag": "character",
+<<<<<<< HEAD
     "tagCount": 19,
+=======
+<<<<<<< HEAD
+    "tagCount": 23,
+=======
+<<<<<<< HEAD
+    "tagCount": 9,
+=======
+    "tagCount": 17,
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
     "relativePaths": [
       "Characters/Players/Theon.md",
       "Characters/Players/Supra.md",
@@ -55,12 +75,22 @@
       "Characters/NPC/Supra.md",
       "Characters/NPC/Solume.md",
       "Characters/NPC/Sharp.md",
+      "Characters/NPC/Salemandorya.md",
+      "Characters/NPC/Pristine.md",
       "Characters/NPC/Panogre.md",
       "Characters/NPC/Oriel Verodon.md",
       "Characters/NPC/Neralyn.md",
+<<<<<<< HEAD
       "Characters/NPC/Narielle.md",
       "Characters/NPC/Lexus Archandor.md",
       "Characters/NPC/Kvarihr.md",
+=======
+      "Characters/NPC/Nellin Sharden.md",
+      "Characters/NPC/Narielle.md",
+      "Characters/NPC/Lexus Archandor.md",
+      "Characters/NPC/Kvarihr.md",
+      "Characters/NPC/Evan Lockhart.md",
+>>>>>>> origin/main
       "Characters/NPC/Elestria.md",
       "Characters/NPC/Avrus Folatis.md"
     ]

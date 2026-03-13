@@ -29,6 +29,10 @@
       "relativePath": "_templates"
     },
     {
+      "name": "Journal",
+      "relativePath": "Journal"
+    },
+    {
       "name": "NPC",
       "relativePath": "Characters/NPC"
     },
