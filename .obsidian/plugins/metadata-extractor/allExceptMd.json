@@ -9,6 +9,10 @@
       "relativePath": "Characters"
     },
     {
+      "name": "Journal",
+      "relativePath": "Journal"
+    },
+    {
       "name": "Locations",
       "relativePath": "Locations"
     },

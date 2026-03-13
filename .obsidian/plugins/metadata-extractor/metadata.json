@@ -157,15 +157,15 @@
     ],
     "backlinks": [
       {
-<<<<<<< HEAD
         "fileName": "Le fils perdu",
         "link": "Raf.md",
         "relativePath": "Quests/Le fils perdu.md",
-=======
+        "displayText": "Raf"
+      },
+      {
         "fileName": "Bal à Lorandis",
         "link": "Raf.md",
         "relativePath": "Quests/Bal à Lorandis.md",
->>>>>>> origin/main
         "displayText": "Raf"
       }
     ]
@@ -308,7 +308,6 @@
         "heading": "Evenements",
         "level": 1
       }
-<<<<<<< HEAD
     ],
     "links": [
       {
@@ -316,8 +315,6 @@
         "displayText": "Raf",
         "relativePath": "Quests/Raf.md"
       }
-=======
->>>>>>> origin/main
     ]
   },
   {
@@ -349,8 +346,6 @@
         "link": "Supra.md",
         "displayText": "Supra",
         "relativePath": "Characters/Players/Supra.md"
-<<<<<<< HEAD
-=======
       },
       {
         "link": "Lorandis.md",
@@ -380,11 +375,16 @@
     ],
     "backlinks": [
       {
+        "fileName": "1491-01-12-S34",
+        "link": "Bal à Lorandis.md",
+        "relativePath": "Journal/1491-01-12-S34.md",
+        "displayText": "Bal à Lorandis"
+      },
+      {
         "fileName": "Supra",
         "link": "Bal à Lorandis.md",
         "relativePath": "Characters/NPC/Supra.md",
         "displayText": "Bal à Lorandis"
->>>>>>> origin/main
       }
     ]
   },
@@ -458,15 +458,15 @@
         "displayText": "Venedia"
       },
       {
-        "fileName": "Lac de l'Effroi",
-        "link": "Venedia.md",
-        "relativePath": "Locations/Lac de l'Effroi.md",
-        "displayText": "Venedia"
-      },
-      {
         "fileName": "Jerwal",
         "link": "Venedia.md",
         "relativePath": "Locations/Jerwal.md",
+        "displayText": "Venedia"
+      },
+      {
+        "fileName": "Lac de l'Effroi",
+        "link": "Venedia.md",
+        "relativePath": "Locations/Lac de l'Effroi.md",
         "displayText": "Venedia"
       },
       {
@@ -485,6 +485,53 @@
         "link": "Venedia.md",
         "relativePath": "Locations/Cyria.md",
         "displayText": "Venedia"
+      }
+    ]
+  },
+  {
+    "fileName": "Taverne Secrète",
+    "relativePath": "Locations/Taverne Secrète.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "16-12-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1491-01-12-S34",
+        "link": "Taverne Secrète.md",
+        "relativePath": "Journal/1491-01-12-S34.md",
+        "displayText": "Taverne Secrète"
+      },
+      {
+        "fileName": "Verloppe",
+        "link": "Taverne Secrète.md",
+        "relativePath": "Characters/NPC/Verloppe.md",
+        "displayText": "Taverne Secrète"
       }
     ]
   },
@@ -690,30 +737,21 @@
         "displayText": "Lorandis"
       },
       {
-<<<<<<< HEAD
-=======
         "fileName": "Bal à Lorandis",
         "link": "Lorandis.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Lorandis"
       },
       {
->>>>>>> origin/main
+        "fileName": "Taverne Secrète",
+        "link": "Lorandis.md",
+        "relativePath": "Locations/Taverne Secrète.md",
+        "displayText": "Lorandis"
+      },
+      {
         "fileName": "Nimra",
         "link": "Lorandis.md",
         "relativePath": "Locations/Nimra.md",
-        "displayText": "Lorandis"
-      },
-      {
-        "fileName": "Narielle",
-        "link": "Lorandis.md",
-        "relativePath": "Characters/NPC/Narielle.md",
-        "displayText": "Lorandis"
-      },
-      {
-        "fileName": "Solume",
-        "link": "Lorandis.md",
-        "relativePath": "Characters/NPC/Solume.md",
         "displayText": "Lorandis"
       },
       {
@@ -729,10 +767,55 @@
         "displayText": "Lorandis"
       },
       {
+        "fileName": "Solume",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Solume.md",
+        "displayText": "Lorandis"
+      },
+      {
+        "fileName": "Narielle",
+        "link": "Lorandis.md",
+        "relativePath": "Characters/NPC/Narielle.md",
+        "displayText": "Lorandis"
+      },
+      {
         "fileName": "Avrus Folatis",
         "link": "Lorandis.md",
         "relativePath": "Characters/NPC/Avrus Folatis.md",
         "displayText": "Lorandis"
+      }
+    ]
+  },
+  {
+    "fileName": "Jerwal",
+    "relativePath": "Locations/Jerwal.md",
+    "tags": [
+      "location"
+    ],
+    "frontmatter": {
+      "date": "02-08-2025",
+      "map": false,
+      "owner": null
+    },
+    "headings": [
+      {
+        "heading": "Map",
+        "level": 1
+      },
+      {
+        "heading": "Quests",
+        "level": 1
+      },
+      {
+        "heading": "Information",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Venedia.md",
+        "displayText": "Venedia",
+        "relativePath": "Locations/Venedia.md"
       }
     ]
   },
@@ -781,39 +864,6 @@
         "link": "Cyria.md",
         "displayText": "Cyria",
         "relativePath": "Locations/Cyria.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Jerwal",
-    "relativePath": "Locations/Jerwal.md",
-    "tags": [
-      "location"
-    ],
-    "frontmatter": {
-      "date": "02-08-2025",
-      "map": false,
-      "owner": null
-    },
-    "headings": [
-      {
-        "heading": "Map",
-        "level": 1
-      },
-      {
-        "heading": "Quests",
-        "level": 1
-      },
-      {
-        "heading": "Information",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Venedia.md",
-        "displayText": "Venedia",
-        "relativePath": "Locations/Venedia.md"
       }
     ]
   },
@@ -985,6 +1035,50 @@
     ]
   },
   {
+    "fileName": "1491-01-12-S34",
+    "relativePath": "Journal/1491-01-12-S34.md",
+    "frontmatter": {
+      "tags": null,
+      "creation-date": "16-12-2025",
+      "fc-calendar": "Calendar of Harptos",
+      "fc-date": "1491-01-12",
+      "fc-end": null
+    },
+    "headings": [
+      {
+        "heading": "1491-01-12-S34",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Bal à Lorandis.md",
+        "displayText": "Bal à Lorandis",
+        "relativePath": "Quests/Bal à Lorandis.md"
+      },
+      {
+        "link": "Taverne Secrète.md",
+        "displayText": "Taverne Secrète",
+        "relativePath": "Locations/Taverne Secrète.md"
+      },
+      {
+        "link": "Verloppe.md",
+        "displayText": "Verloppe",
+        "relativePath": "Characters/NPC/Verloppe.md"
+      },
+      {
+        "link": "Kvarihr.md",
+        "displayText": "Kvarihr",
+        "relativePath": "Characters/NPC/Kvarihr.md"
+      },
+      {
+        "link": "Lexus Archandor.md",
+        "displayText": "Lexus Archandor",
+        "relativePath": "Characters/NPC/Lexus Archandor.md"
+      }
+    ]
+  },
+  {
     "fileName": "Untitled",
     "relativePath": "Characters/Players/Untitled.md"
   },
@@ -1021,15 +1115,12 @@
         "link": "Supra.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Supra"
-<<<<<<< HEAD
-=======
       },
       {
         "fileName": "Bal à Lorandis",
         "link": "Supra.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Supra"
->>>>>>> origin/main
       }
     ]
   },
@@ -1129,68 +1220,6 @@
     }
   },
   {
-    "fileName": "Narielle",
-    "relativePath": "Characters/NPC/Narielle.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "19-11-2025",
-      "alignment": "good"
-    },
-    "links": [
-      {
-        "link": "Lorandis.md",
-        "displayText": "Lorandis",
-        "relativePath": "Locations/Lorandis.md"
-      },
-      {
-        "link": "Solume.md",
-        "displayText": "Solume",
-        "relativePath": "Characters/NPC/Solume.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Solume",
-        "link": "Narielle.md",
-        "relativePath": "Characters/NPC/Solume.md",
-        "displayText": "Narielle"
-      }
-    ]
-  },
-  {
-    "fileName": "Solume",
-    "relativePath": "Characters/NPC/Solume.md",
-    "tags": [
-      "character"
-    ],
-    "frontmatter": {
-      "date": "19-11-2025",
-      "alignment": "good"
-    },
-    "links": [
-      {
-        "link": "Lorandis.md",
-        "displayText": "Lorandis",
-        "relativePath": "Locations/Lorandis.md"
-      },
-      {
-        "link": "Narielle.md",
-        "displayText": "Narielle",
-        "relativePath": "Characters/NPC/Narielle.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Narielle",
-        "link": "Solume.md",
-        "relativePath": "Characters/NPC/Narielle.md",
-        "displayText": "Solume"
-      }
-    ]
-  },
-  {
     "fileName": "Zepha Verodon",
     "relativePath": "Characters/NPC/Zepha Verodon.md",
     "tags": [
@@ -1210,6 +1239,32 @@
         "link": "Lorandis.md",
         "displayText": "Lorandis",
         "relativePath": "Locations/Lorandis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Verloppe",
+    "relativePath": "Characters/NPC/Verloppe.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "16-12-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Taverne Secrète.md",
+        "displayText": "Taverne Secrète",
+        "relativePath": "Locations/Taverne Secrète.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1491-01-12-S34",
+        "link": "Verloppe.md",
+        "relativePath": "Journal/1491-01-12-S34.md",
+        "displayText": "Verloppe"
       }
     ]
   },
@@ -1251,6 +1306,37 @@
         "link": "Bal à Lorandis.md",
         "displayText": "Bal à Lorandis",
         "relativePath": "Quests/Bal à Lorandis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Solume",
+    "relativePath": "Characters/NPC/Solume.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "19-11-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Narielle.md",
+        "displayText": "Narielle",
+        "relativePath": "Characters/NPC/Narielle.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Narielle",
+        "link": "Solume.md",
+        "relativePath": "Characters/NPC/Narielle.md",
+        "displayText": "Solume"
       }
     ]
   },
@@ -1341,6 +1427,37 @@
     ]
   },
   {
+    "fileName": "Narielle",
+    "relativePath": "Characters/NPC/Narielle.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "19-11-2025",
+      "alignment": "good"
+    },
+    "links": [
+      {
+        "link": "Lorandis.md",
+        "displayText": "Lorandis",
+        "relativePath": "Locations/Lorandis.md"
+      },
+      {
+        "link": "Solume.md",
+        "displayText": "Solume",
+        "relativePath": "Characters/NPC/Solume.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Solume",
+        "link": "Narielle.md",
+        "relativePath": "Characters/NPC/Solume.md",
+        "displayText": "Narielle"
+      }
+    ]
+  },
+  {
     "fileName": "Lexus Archandor",
     "relativePath": "Characters/NPC/Lexus Archandor.md",
     "tags": [
@@ -1356,6 +1473,31 @@
         "link": "Lexus Archandor.md",
         "relativePath": "Quests/Bal à Lorandis.md",
         "displayText": "Lexus Archandor"
+      },
+      {
+        "fileName": "1491-01-12-S34",
+        "link": "Lexus Archandor.md",
+        "relativePath": "Journal/1491-01-12-S34.md",
+        "displayText": "Lexus Archandor"
+      }
+    ]
+  },
+  {
+    "fileName": "Kvarihr",
+    "relativePath": "Characters/NPC/Kvarihr.md",
+    "tags": [
+      "character"
+    ],
+    "frontmatter": {
+      "date": "16-12-2025",
+      "alignment": "good"
+    },
+    "backlinks": [
+      {
+        "fileName": "1491-01-12-S34",
+        "link": "Kvarihr.md",
+        "relativePath": "Journal/1491-01-12-S34.md",
+        "displayText": "Kvarihr"
       }
     ]
   },

@@ -53,17 +53,15 @@
             }
           },
           {
-            "id": "bcb45674e6b04d64",
+            "id": "fb05a1e172dbec43",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "release-notes",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "currentVersion": "1.11.7"
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
@@ -315,7 +313,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bcb45674e6b04d64",
+  "active": "fb05a1e172dbec43",
   "lastOpenFiles": [
     "temp-note.md",
     "Journal/1491-01-12-S34.md",
